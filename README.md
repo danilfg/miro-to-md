@@ -40,8 +40,24 @@ Client ID и Client Secret вводить не нужно.
 ## 1. Проверить структуру доски
 
 ~~~bash
-python miro_to_md.py inspect
+python miro_to_md.py inspect \
+  --frame 'Agents + RAG' \
+  --frame 'Classic ML и DL' \
+  --frame 'NLP finetuning'
 ~~~
+
+Повторяемый `--frame` выбирает точные названия (HTML-сущности, регистр и лишние
+пробелы нормализуются). Сначала читается список фреймов, затем содержимое только
+выбранных. При отсутствии или неоднозначности названия команда останавливается.
+Без `--frame` читается вся доска. Соединители API выдаёт общим списком; в снимок
+попадают только связи с обоими концами среди выбранных объектов.
+
+Красный числовой стикер сопоставляется с левым верхним углом контейнера,
+синий стикер времени — с правым верхним. Заголовок берётся с доски.
+Исходные номера, включая повторы, не перенумеровываются. Модули сортируются
+по номеру и координатам, блоки внутри — сверху вниз, затем слева направо.
+Неуверенное сопоставление контейнера/заголовка останавливает экспорт.
+Ненумерованные материалы сохраняются отдельно под редакционной подписью.
 
 В приватной папке out/ будут: board.json (сырой снимок API), items.json (все извлечённые текстовые объекты), links.csv (встроенные URL), sections.json (группировка), connectors.json (связи), report.json (сводка) и preview.html (приближённый HTML-обзор по координатам).
 
@@ -74,10 +90,38 @@ python visual_capture.py
 ## 4. Выгрузить курс
 
 ~~~bash
-python miro_to_md.py export --slug agents-rag --title "Agents + RAG"
+python check_links.py
+python miro_to_md.py export --from-json out/board.json \
+  --frame 'Agents + RAG' --slug agents-rag --title 'Agents + RAG' \
+  --link-audit out/link-checks.json --out out/agents-rag
+python miro_to_md.py export --from-json out/board.json \
+  --frame 'Classic ML и DL' --slug classic-ml-dl --title 'Classic ML и DL' \
+  --link-audit out/link-checks.json --out out/classic-ml-dl
+python miro_to_md.py export --from-json out/board.json \
+  --frame 'NLP finetuning' --slug nlp-finetuning --title 'NLP finetuning' \
+  --link-audit out/link-checks.json --out out/nlp-finetuning
 ~~~
 
-Результат: out/course.md и out/agents-rag.zip (внутри course.json — схема itroadmaps.course.v2). Все этапы и уроки создаются в статусе draft. Курс является **черновиком**, сохраняет ссылки на оригиналы в Miro, не публикуется и не импортируется автоматически.
+Каждый подкаталог содержит `course.md` и ZIP с `course.json` формата
+`itroadmaps.course.v2`, `README.md`, индексом всех объектов `objects.csv`
+и связями `structure.md`. Все этапы и уроки создаются в статусе draft.
+Курс является **черновиком**, сохраняет ссылки на оригиналы в Miro,
+не публикуется и не импортируется автоматически. Экспорт нескольких выбранных
+фреймов в один курс запрещён: запускайте экспорт отдельно для каждого.
+
+`check_links.py` проверяет уникальные исходные URL анонимными GET-запросами,
+без Miro-токена, браузерных cookie и Referer. Результаты — `link-checks.json`
+и CSV; при передаче `--link-audit` отметки добавляются в Markdown и ZIP.
+HTTP 200 подтверждает ответ URL, но не доступ ко всему платному материалу;
+YouTube отмечается отдельно, воспроизведение видео не проверяется.
+Неверные адреса, авторизация, HTTP-ошибки, блокировки и ошибки сети
+различаются. Исходные URL не исправляются автоматически.
+
+Для включения уже скачанных изображений можно передать `--image-assets`:
+локальный JSON-словарь `Miro image ID -> абсолютный путь файла`. Изображения
+копируются рядом с Markdown и внутрь ZIP. Таблицы и рисованные объекты,
+которые API возвращает без содержимого, остаются с ID и ссылкой на Miro;
+текст в изображениях не распознаётся.
 
 Существующий импортёр IT Roadmaps: [COURSE_PACKAGE_FORMAT.md](https://github.com/danilfg/itroadmaps/blob/main/COURSE_PACKAGE_FORMAT.md).
 
