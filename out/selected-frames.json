@@ -1,0 +1,113 @@
+[
+  {
+    "id": "3458764691140183445",
+    "type": "frame",
+    "data": {
+      "format": "custom",
+      "showContent": true,
+      "title": "Agents &#43; RAG",
+      "type": "unknown"
+    },
+    "style": {
+      "fillColor": "#ffffff"
+    },
+    "geometry": {
+      "width": 14813.430556487427,
+      "height": 12450.229831417422
+    },
+    "position": {
+      "x": -72110.36941538732,
+      "y": -97316.37375260126,
+      "origin": "center",
+      "relativeTo": "canvas_center"
+    },
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVHVS-s1M%3D/frames/3458764691140183445",
+      "related": "https://api.miro.com/v2/boards/uXjVHVS-s1M%3D/items?parent_item_id=3458764691140183445&limit=10&cursor="
+    },
+    "createdAt": "2026-11-20T21:39:51Z",
+    "createdBy": {
+      "id": "3458764520683485105",
+      "type": "user"
+    },
+    "modifiedAt": "2026-11-20T21:40:09Z",
+    "modifiedBy": {
+      "id": "3458764520683485105",
+      "type": "user"
+    }
+  },
+  {
+    "id": "3458764691140220522",
+    "type": "frame",
+    "data": {
+      "format": "custom",
+      "showContent": true,
+      "title": "Classic ML  и DL",
+      "type": "unknown"
+    },
+    "style": {
+      "fillColor": "#ffffff"
+    },
+    "geometry": {
+      "width": 14813.43055648743,
+      "height": 12450.229831417417
+    },
+    "position": {
+      "x": -54284.69246157617,
+      "y": -97316.37375260126,
+      "origin": "center",
+      "relativeTo": "canvas_center"
+    },
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVHVS-s1M%3D/frames/3458764691140220522",
+      "related": "https://api.miro.com/v2/boards/uXjVHVS-s1M%3D/items?parent_item_id=3458764691140220522&limit=10&cursor="
+    },
+    "createdAt": "2026-11-20T21:40:51Z",
+    "createdBy": {
+      "id": "3458764520683485105",
+      "type": "user"
+    },
+    "modifiedAt": "2026-11-20T21:41:50Z",
+    "modifiedBy": {
+      "id": "3458764520683485105",
+      "type": "user"
+    }
+  },
+  {
+    "id": "3458764691140251196",
+    "type": "frame",
+    "data": {
+      "format": "custom",
+      "showContent": true,
+      "title": "NLP  finetuning",
+      "type": "unknown"
+    },
+    "style": {
+      "fillColor": "#ffffff"
+    },
+    "geometry": {
+      "width": 14813.430556487423,
+      "height": 12450.229831417426
+    },
+    "position": {
+      "x": -36624.72633559328,
+      "y": -97316.37375260124,
+      "origin": "center",
+      "relativeTo": "canvas_center"
+    },
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVHVS-s1M%3D/frames/3458764691140251196",
+      "related": "https://api.miro.com/v2/boards/uXjVHVS-s1M%3D/items?parent_item_id=3458764691140251196&limit=10&cursor="
+    },
+    "createdAt": "2026-11-20T21:41:37Z",
+    "createdBy": {
+      "id": "3458764520683485105",
+      "type": "user"
+    },
+    "modifiedAt": "2026-11-20T21:41:56Z",
+    "modifiedBy": {
+      "id": "3458764520683485105",
+      "type": "user"
+    }
+  }
+]

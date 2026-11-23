@@ -1,0 +1,2098 @@
+{
+  "https://arxiv.org/pdf/2106.09685": {
+    "url": "https://arxiv.org/pdf/2106.09685",
+    "checkedAt": "2026-11-21T17:25:08.760858+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://arxiv.org/pdf/2106.09685",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://arxiv.org/pdf/2303.16634": {
+    "url": "https://arxiv.org/pdf/2303.16634",
+    "checkedAt": "2026-11-21T17:25:08.761360+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://arxiv.org/pdf/2303.16634",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://disk.yandex.ru/d/guhN1YgFKT41qQ": {
+    "url": "https://disk.yandex.ru/d/guhN1YgFKT41qQ",
+    "checkedAt": "2026-11-21T17:25:08.761622+00:00",
+    "httpStatus": 404,
+    "finalUrl": "https://disk.yandex.ru/d/guhN1YgFKT41qQ",
+    "status": "unavailable",
+    "label": "Недоступна при проверке (HTTP 404)"
+  },
+  "https://disk.yandex.ru/i/J4p8RRNRQh9mKQ": {
+    "url": "https://disk.yandex.ru/i/J4p8RRNRQh9mKQ",
+    "checkedAt": "2026-11-21T17:25:08.761815+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://disk.yandex.ru/i/J4p8RRNRQh9mKQ",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://colab.research.google.com/drive/10uB_60Mj2FgTIc2vx3nasYyYr2dHv7cx?usp=sharing": {
+    "url": "https://colab.research.google.com/drive/10uB_60Mj2FgTIc2vx3nasYyYr2dHv7cx?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:08.761496+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://colab.research.google.com/drive/10uB_60Mj2FgTIc2vx3nasYyYr2dHv7cx?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://disk.yandex.ru/d/xT-bQBN7LcIC6g": {
+    "url": "https://disk.yandex.ru/d/xT-bQBN7LcIC6g",
+    "checkedAt": "2026-11-21T17:25:08.761694+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://disk.yandex.ru/d/xT-bQBN7LcIC6g",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://disk.yandex.ru/d/UJdmF8ZynegF1w": {
+    "url": "https://disk.yandex.ru/d/UJdmF8ZynegF1w",
+    "checkedAt": "2026-11-21T17:25:08.761564+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://disk.yandex.ru/d/UJdmF8ZynegF1w",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://djdumpling.github.io/2026/01/31/frontier_training.html": {
+    "url": "https://djdumpling.github.io/2026/01/31/frontier_training.html",
+    "checkedAt": "2026-11-21T17:25:08.761911+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://djdumpling.github.io/2026/01/31/frontier_training.html",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.hiyar5tdn510": {
+    "url": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.hiyar5tdn510",
+    "checkedAt": "2026-11-21T17:25:08.762136+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.hiyar5tdn510",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.qw34w2xeh98l": {
+    "url": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.qw34w2xeh98l",
+    "checkedAt": "2026-11-21T17:25:09.354161+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.qw34w2xeh98l",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.qqn5lkf9qa3a": {
+    "url": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.qqn5lkf9qa3a",
+    "checkedAt": "2026-11-21T17:25:09.332404+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.qqn5lkf9qa3a",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.mscv2pfe6sk3": {
+    "url": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.mscv2pfe6sk3",
+    "checkedAt": "2026-11-21T17:25:09.259851+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.mscv2pfe6sk3",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://docs.google.com/document/d/1O-QO5iY5S_zU7tzv2blglfxOZZq4CzdBLpBB6W3qio4/edit?tab=t.0#heading=h.rtx5i12nmqpp": {
+    "url": "https://docs.google.com/document/d/1O-QO5iY5S_zU7tzv2blglfxOZZq4CzdBLpBB6W3qio4/edit?tab=t.0#heading=h.rtx5i12nmqpp",
+    "checkedAt": "2026-11-21T17:25:08.762043+00:00",
+    "httpStatus": 401,
+    "finalUrl": "https://docs.google.com/document/d/1O-QO5iY5S_zU7tzv2blglfxOZZq4CzdBLpBB6W3qio4/edit?tab=t.0#heading=h.rtx5i12nmqpp",
+    "status": "auth_required",
+    "label": "Нужна авторизация (HTTP 401)"
+  },
+  "https://docs.google.com/document/d/13w5BOcmQ0JhM7xFhVFWLKH3DBNoEgwKzFscgzalFVww/edit?tab=t.0#heading=h.cf64dds9cql": {
+    "url": "https://docs.google.com/document/d/13w5BOcmQ0JhM7xFhVFWLKH3DBNoEgwKzFscgzalFVww/edit?tab=t.0#heading=h.cf64dds9cql",
+    "checkedAt": "2026-11-21T17:25:08.761989+00:00",
+    "httpStatus": 401,
+    "finalUrl": "https://docs.google.com/document/d/13w5BOcmQ0JhM7xFhVFWLKH3DBNoEgwKzFscgzalFVww/edit?tab=t.0#heading=h.cf64dds9cql",
+    "status": "auth_required",
+    "label": "Нужна авторизация (HTTP 401)"
+  },
+  "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.t8qmyugrx9ky": {
+    "url": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.t8qmyugrx9ky",
+    "checkedAt": "2026-11-21T17:25:09.648642+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.t8qmyugrx9ky",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.xvq4ipii7118": {
+    "url": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.xvq4ipii7118",
+    "checkedAt": "2026-11-21T17:25:09.859290+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.xvq4ipii7118",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.yr6diym0hscf": {
+    "url": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.yr6diym0hscf",
+    "checkedAt": "2026-11-21T17:25:09.882952+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.yr6diym0hscf",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.56m0o7s1qglk": {
+    "url": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.56m0o7s1qglk",
+    "checkedAt": "2026-11-21T17:25:08.762090+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.56m0o7s1qglk",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://docs.google.com/document/d/1XLR0lzrDR9TIIEn459UT4JOR-XUHg6xSrhbAFeCQM-I/edit?tab=t.0#heading=h.w2g6ytklwtv4": {
+    "url": "https://docs.google.com/document/d/1XLR0lzrDR9TIIEn459UT4JOR-XUHg6xSrhbAFeCQM-I/edit?tab=t.0#heading=h.w2g6ytklwtv4",
+    "checkedAt": "2026-11-21T17:25:10.159731+00:00",
+    "httpStatus": 401,
+    "finalUrl": "https://docs.google.com/document/d/1XLR0lzrDR9TIIEn459UT4JOR-XUHg6xSrhbAFeCQM-I/edit?tab=t.0#heading=h.w2g6ytklwtv4",
+    "status": "auth_required",
+    "label": "Нужна авторизация (HTTP 401)"
+  },
+  "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.xbsa89kk6ufn": {
+    "url": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.xbsa89kk6ufn",
+    "checkedAt": "2026-11-21T17:25:09.716499+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.xbsa89kk6ufn",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://docs.google.com/document/d/1nj3aLp-AmdfJgqb09wrRu24qKDTaTJ6EPkUWnXdvlXg/edit?tab=t.0#heading=h.jgxs2s7g8e6i": {
+    "url": "https://docs.google.com/document/d/1nj3aLp-AmdfJgqb09wrRu24qKDTaTJ6EPkUWnXdvlXg/edit?tab=t.0#heading=h.jgxs2s7g8e6i",
+    "checkedAt": "2026-11-21T17:25:10.459573+00:00",
+    "httpStatus": 401,
+    "finalUrl": "https://docs.google.com/document/d/1nj3aLp-AmdfJgqb09wrRu24qKDTaTJ6EPkUWnXdvlXg/edit?tab=t.0#heading=h.jgxs2s7g8e6i",
+    "status": "auth_required",
+    "label": "Нужна авторизация (HTTP 401)"
+  },
+  "https://docs.google.com/document/d/1aazxkBAbK1JLBERZnkIv78gSTk_lXWZDLe5Fp8lt1Ek/edit?usp=sharing": {
+    "url": "https://docs.google.com/document/d/1aazxkBAbK1JLBERZnkIv78gSTk_lXWZDLe5Fp8lt1Ek/edit?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:10.436749+00:00",
+    "httpStatus": 401,
+    "finalUrl": "https://docs.google.com/document/d/1aazxkBAbK1JLBERZnkIv78gSTk_lXWZDLe5Fp8lt1Ek/edit?usp=sharing",
+    "status": "auth_required",
+    "label": "Нужна авторизация (HTTP 401)"
+  },
+  "https://docs.google.com/document/d/1qcU66XOq7hGPUFfedSIpmls__f55owROX9NlbhWnpbQ/edit?tab=t.0": {
+    "url": "https://docs.google.com/document/d/1qcU66XOq7hGPUFfedSIpmls__f55owROX9NlbhWnpbQ/edit?tab=t.0",
+    "checkedAt": "2026-11-21T17:25:10.482705+00:00",
+    "httpStatus": 401,
+    "finalUrl": "https://docs.google.com/document/d/1qcU66XOq7hGPUFfedSIpmls__f55owROX9NlbhWnpbQ/edit?tab=t.0",
+    "status": "auth_required",
+    "label": "Нужна авторизация (HTTP 401)"
+  },
+  "https://docs.google.com/document/d/1ZcbmPRW7H7QxTxoIrDMqzWjGzRqIsYB4rhkxP4hQ2h4/edit?tab=t.0": {
+    "url": "https://docs.google.com/document/d/1ZcbmPRW7H7QxTxoIrDMqzWjGzRqIsYB4rhkxP4hQ2h4/edit?tab=t.0",
+    "checkedAt": "2026-11-21T17:25:10.418102+00:00",
+    "httpStatus": 401,
+    "finalUrl": "https://docs.google.com/document/d/1ZcbmPRW7H7QxTxoIrDMqzWjGzRqIsYB4rhkxP4hQ2h4/edit?tab=t.0",
+    "status": "auth_required",
+    "label": "Нужна авторизация (HTTP 401)"
+  },
+  "https://docs.google.com/document/d/1qZwRtmXFP51EaFkhOCE4U7J_XTwoDp6AadtpqriqNw8/edit?tab=t.0": {
+    "url": "https://docs.google.com/document/d/1qZwRtmXFP51EaFkhOCE4U7J_XTwoDp6AadtpqriqNw8/edit?tab=t.0",
+    "checkedAt": "2026-11-21T17:25:10.482084+00:00",
+    "httpStatus": 401,
+    "finalUrl": "https://docs.google.com/document/d/1qZwRtmXFP51EaFkhOCE4U7J_XTwoDp6AadtpqriqNw8/edit?tab=t.0",
+    "status": "auth_required",
+    "label": "Нужна авторизация (HTTP 401)"
+  },
+  "https://drive.google.com/drive/folders/1765rX7VOX_v5Rf4nJpGgKsoUvwewBD0j?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1765rX7VOX_v5Rf4nJpGgKsoUvwewBD0j?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:10.616599+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1765rX7VOX_v5Rf4nJpGgKsoUvwewBD0j?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/1PMfImDAXGxPIXNjyGRN0c7aNPeC-WsjS?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1PMfImDAXGxPIXNjyGRN0c7aNPeC-WsjS?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:11.072538+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1PMfImDAXGxPIXNjyGRN0c7aNPeC-WsjS?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/1KFCUD2ukyhjIhaQ76Sy9HvJ552FkB1yq?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1KFCUD2ukyhjIhaQ76Sy9HvJ552FkB1yq?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:10.920924+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1KFCUD2ukyhjIhaQ76Sy9HvJ552FkB1yq?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/1LO-K0-VSw6xJsMwg5CzDJ4eHZA_TcgAC?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1LO-K0-VSw6xJsMwg5CzDJ4eHZA_TcgAC?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:11.014910+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1LO-K0-VSw6xJsMwg5CzDJ4eHZA_TcgAC?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/1InNNnSGyz1yjl9B8VzSsyQSfc4HCl6-M?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1InNNnSGyz1yjl9B8VzSsyQSfc4HCl6-M?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:10.823742+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1InNNnSGyz1yjl9B8VzSsyQSfc4HCl6-M?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/1AFV45OU0rwi-1UZpAyi7JxVftrFOn2V8?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1AFV45OU0rwi-1UZpAyi7JxVftrFOn2V8?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:10.667242+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1AFV45OU0rwi-1UZpAyi7JxVftrFOn2V8?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/14CfOML78M7sksfHdRnizjV8wqrDHibN_?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/14CfOML78M7sksfHdRnizjV8wqrDHibN_?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:10.576244+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/14CfOML78M7sksfHdRnizjV8wqrDHibN_?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/1XQyc7ddb40pueR7wrPIjP_qhDHjPCbvy?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1XQyc7ddb40pueR7wrPIjP_qhDHjPCbvy?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:11.675183+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1XQyc7ddb40pueR7wrPIjP_qhDHjPCbvy?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/1YEGLEVUOOMGzcDSenpAzXWT9DZI3uHHP?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1YEGLEVUOOMGzcDSenpAzXWT9DZI3uHHP?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:11.691508+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1YEGLEVUOOMGzcDSenpAzXWT9DZI3uHHP?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/1Pcvm4WlsoUb8xGpw317A_5NHPyMs5uQ7?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1Pcvm4WlsoUb8xGpw317A_5NHPyMs5uQ7?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:11.635912+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1Pcvm4WlsoUb8xGpw317A_5NHPyMs5uQ7?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/1SbPrD9npyINw3YQWTE_bdL8tKP9LCz8U?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1SbPrD9npyINw3YQWTE_bdL8tKP9LCz8U?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:11.660114+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1SbPrD9npyINw3YQWTE_bdL8tKP9LCz8U?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/1_7hy_lSz93OL_3_p4IsDB-cgLxPGmyR9?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1_7hy_lSz93OL_3_p4IsDB-cgLxPGmyR9?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:11.698319+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1_7hy_lSz93OL_3_p4IsDB-cgLxPGmyR9?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/1eM6-Q6-ZRSSP5aV16092Tuo61RVjGF1N?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1eM6-Q6-ZRSSP5aV16092Tuo61RVjGF1N?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:12.010364+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1eM6-Q6-ZRSSP5aV16092Tuo61RVjGF1N?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/1e4EEHT5dol3bB6hbn_9uBZfRNKJSpTan?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1e4EEHT5dol3bB6hbn_9uBZfRNKJSpTan?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:12.009218+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1e4EEHT5dol3bB6hbn_9uBZfRNKJSpTan?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/1lu8-f9gGcHiP8MMou1_3C-_8_LQ2YXB6?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1lu8-f9gGcHiP8MMou1_3C-_8_LQ2YXB6?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:12.193612+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1lu8-f9gGcHiP8MMou1_3C-_8_LQ2YXB6?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/1rL1bI16eMBiGQ80q64a9kUlnZi-TgAVT?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1rL1bI16eMBiGQ80q64a9kUlnZi-TgAVT?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:12.303773+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1rL1bI16eMBiGQ80q64a9kUlnZi-TgAVT?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://education.yandex.ru/handbook/ml#:~:text=10.2.,%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B8%D0%B4%D0%B0%20ARIMA": {
+    "url": "https://education.yandex.ru/handbook/ml#:~:text=10.2.,%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B8%D0%B4%D0%B0%20ARIMA",
+    "checkedAt": "2026-11-21T17:25:12.617164+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://contest.yandex.ru/tracks/ml/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/1uZn51-Ky-q5VRTX4qfuQHUWZ7Kx78sHR?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1uZn51-Ky-q5VRTX4qfuQHUWZ7Kx78sHR?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:12.331814+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1uZn51-Ky-q5VRTX4qfuQHUWZ7Kx78sHR?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/1k9Z1Iz23E317uuUsMncvBl592-V20Mys?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1k9Z1Iz23E317uuUsMncvBl592-V20Mys?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:12.011576+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1k9Z1Iz23E317uuUsMncvBl592-V20Mys?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://education.yandex.ru/handbook/ml#:~:text=9.%20%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B": {
+    "url": "https://education.yandex.ru/handbook/ml#:~:text=9.%20%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B",
+    "checkedAt": "2026-11-21T17:25:12.899693+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://contest.yandex.ru/tracks/ml/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/file/d/1FCLBMVea5Kf2BclV4GDQ2BHP5PpncGhC/view?usp=sharing": {
+    "url": "https://drive.google.com/file/d/1FCLBMVea5Kf2BclV4GDQ2BHP5PpncGhC/view?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:12.503710+00:00",
+    "httpStatus": 401,
+    "finalUrl": "https://drive.google.com/file/d/1FCLBMVea5Kf2BclV4GDQ2BHP5PpncGhC/view?usp=sharing",
+    "status": "auth_required",
+    "label": "Нужна авторизация (HTTP 401)"
+  },
+  "https://education.yandex.ru/handbook/data-analysis/article/logisticheskaya-regressiya": {
+    "url": "https://education.yandex.ru/handbook/data-analysis/article/logisticheskaya-regressiya",
+    "checkedAt": "2026-11-21T17:25:12.609149+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://contest.yandex.ru/tracks",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/file/d/1maKyHc-axXFK3A6Hgg4EDK5SPPq3qcTF/view?usp=sharing": {
+    "url": "https://drive.google.com/file/d/1maKyHc-axXFK3A6Hgg4EDK5SPPq3qcTF/view?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:12.599843+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/file/d/1maKyHc-axXFK3A6Hgg4EDK5SPPq3qcTF/view?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://education.yandex.ru/handbook/ml/article/bias-variance-decomposition": {
+    "url": "https://education.yandex.ru/handbook/ml/article/bias-variance-decomposition",
+    "checkedAt": "2026-11-21T17:25:13.061424+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://contest.yandex.ru/tracks/ml/machine-learning-theory/bias-variance-decomposition",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://education.yandex.ru/handbook/ml/article/ansambli-v-mashinnom-obuchenii": {
+    "url": "https://education.yandex.ru/handbook/ml/article/ansambli-v-mashinnom-obuchenii",
+    "checkedAt": "2026-11-21T17:25:12.975761+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://contest.yandex.ru/tracks/ml/supervised-learning/ensembles-in-machine-learning",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://education.yandex.ru/handbook/ml/article/gradientnyj-busting": {
+    "url": "https://education.yandex.ru/handbook/ml/article/gradientnyj-busting",
+    "checkedAt": "2026-11-21T17:25:13.109118+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://contest.yandex.ru/tracks/ml/supervised-learning/gradient-boosting",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://drive.google.com/drive/folders/1b5CvB1foeW1h5K8OtIZbmRxEOcjtqMsu?usp=sharing": {
+    "url": "https://drive.google.com/drive/folders/1b5CvB1foeW1h5K8OtIZbmRxEOcjtqMsu?usp=sharing",
+    "checkedAt": "2026-11-21T17:25:11.995557+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://drive.google.com/drive/folders/1b5CvB1foeW1h5K8OtIZbmRxEOcjtqMsu?usp=sharing",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://education.yandex.ru/handbook/ml/article/linear-models": {
+    "url": "https://education.yandex.ru/handbook/ml/article/linear-models",
+    "checkedAt": "2026-11-21T17:25:13.220048+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://contest.yandex.ru/tracks/ml/supervised-learning/linear-models",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://education.yandex.ru/handbook/ml/article/klasterizaciya": {
+    "url": "https://education.yandex.ru/handbook/ml/article/klasterizaciya",
+    "checkedAt": "2026-11-21T17:25:13.218811+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://contest.yandex.ru/tracks/ml/practical-topics/clustering",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://education.yandex.ru/handbook/ml/article/mashinnoye-obucheniye": {
+    "url": "https://education.yandex.ru/handbook/ml/article/mashinnoye-obucheniye",
+    "checkedAt": "2026-11-21T17:25:13.241102+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://contest.yandex.ru/tracks/ml/introduction/machine-learning",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://education.yandex.ru/handbook/ml/article/reshayushchiye-derevya": {
+    "url": "https://education.yandex.ru/handbook/ml/article/reshayushchiye-derevya",
+    "checkedAt": "2026-11-21T17:25:13.289079+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://contest.yandex.ru/tracks/ml/supervised-learning/decision-trees",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://education.yandex.ru/handbook/ml/article/zadacha-ranzhirovaniya": {
+    "url": "https://education.yandex.ru/handbook/ml/article/zadacha-ranzhirovaniya",
+    "checkedAt": "2026-11-21T17:25:13.327253+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://contest.yandex.ru/tracks/ml/practical-topics/ranking",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://education.yandex.ru/handbook/ml/article/metricheskiye-metody": {
+    "url": "https://education.yandex.ru/handbook/ml/article/metricheskiye-metody",
+    "checkedAt": "2026-11-21T17:25:13.266104+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://contest.yandex.ru/tracks/ml/supervised-learning/metric-methods",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://github.com/yandexdataschool/nlp_course": {
+    "url": "https://github.com/yandexdataschool/nlp_course",
+    "checkedAt": "2026-11-21T17:25:13.526301+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://github.com/yandexdataschool/nlp_course",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://github.com/mlabonne/llm-course?tab=readme-ov-file": {
+    "url": "https://github.com/mlabonne/llm-course?tab=readme-ov-file",
+    "checkedAt": "2026-11-21T17:25:13.518529+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://github.com/mlabonne/llm-course?tab=readme-ov-file",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/1002218/": {
+    "url": "https://habr.com/ru/articles/1002218/",
+    "checkedAt": "2026-11-21T17:25:13.885685+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/1002218/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/1001682/": {
+    "url": "https://habr.com/ru/articles/1001682/",
+    "checkedAt": "2026-11-21T17:25:13.602307+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/1001682/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/588801/": {
+    "url": "https://habr.com/ru/articles/588801/",
+    "checkedAt": "2026-11-21T17:25:14.389945+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/588801/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/1002298/": {
+    "url": "https://habr.com/ru/articles/1002298/",
+    "checkedAt": "2026-11-21T17:25:14.374160+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/1002298/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://education.yandex.ru/handbook/ml/article/metriki-klassifikacii-i-regressii": {
+    "url": "https://education.yandex.ru/handbook/ml/article/metriki-klassifikacii-i-regressii",
+    "checkedAt": "2026-11-21T17:25:13.281577+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://contest.yandex.ru/tracks/ml/model-evaluation/classification-and-regression-metrics",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/747534/": {
+    "url": "https://habr.com/ru/articles/747534/",
+    "checkedAt": "2026-11-21T17:25:14.487404+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/747534/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/240405/": {
+    "url": "https://habr.com/ru/articles/240405/",
+    "checkedAt": "2026-11-21T17:25:14.375598+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/240405/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/667630/": {
+    "url": "https://habr.com/ru/articles/667630/",
+    "checkedAt": "2026-11-21T17:25:14.443080+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/667630/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/671798/": {
+    "url": "https://habr.com/ru/articles/671798/",
+    "checkedAt": "2026-11-21T17:25:14.469623+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/671798/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLSD/ml-system-design.md": {
+    "url": "https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLSD/ml-system-design.md",
+    "checkedAt": "2026-11-21T17:25:13.456800+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://github.com/alirezadir/AIMLInterviews/blob/main/src/MLSD/ml-system-design.md",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/782608/": {
+    "url": "https://habr.com/ru/articles/782608/",
+    "checkedAt": "2026-11-21T17:25:14.830457+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/782608/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/774582/": {
+    "url": "https://habr.com/ru/articles/774582/",
+    "checkedAt": "2026-11-21T17:25:14.827767+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/774582/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/781408/": {
+    "url": "https://habr.com/ru/articles/781408/",
+    "checkedAt": "2026-11-21T17:25:14.828996+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/781408/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/828984/": {
+    "url": "https://habr.com/ru/articles/828984/",
+    "checkedAt": "2026-11-21T17:25:14.834234+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/828984/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/905728/": {
+    "url": "https://habr.com/ru/articles/905728/",
+    "checkedAt": "2026-11-21T17:25:14.991110+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/905728/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/882432/": {
+    "url": "https://habr.com/ru/articles/882432/",
+    "checkedAt": "2026-11-21T17:25:14.889138+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/882432/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/893822/": {
+    "url": "https://habr.com/ru/articles/893822/",
+    "checkedAt": "2026-11-21T17:25:14.958846+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/893822/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/957748/": {
+    "url": "https://habr.com/ru/articles/957748/",
+    "checkedAt": "2026-11-21T17:25:15.398436+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/957748/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/871226/": {
+    "url": "https://habr.com/ru/articles/871226/",
+    "checkedAt": "2026-11-21T17:25:14.881732+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/871226/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/863902/": {
+    "url": "https://habr.com/ru/articles/863902/",
+    "checkedAt": "2026-11-21T17:25:14.860260+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/863902/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/904032/": {
+    "url": "https://habr.com/ru/articles/904032/",
+    "checkedAt": "2026-11-21T17:25:14.965993+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/904032/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/948934/": {
+    "url": "https://habr.com/ru/articles/948934/",
+    "checkedAt": "2026-11-21T17:25:15.026009+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/948934/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/933372/": {
+    "url": "https://habr.com/ru/articles/933372/",
+    "checkedAt": "2026-11-21T17:25:15.004287+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/933372/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/companies/X5Tech/articles/593263/": {
+    "url": "https://habr.com/ru/companies/X5Tech/articles/593263/",
+    "checkedAt": "2026-11-21T17:25:15.634748+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/companies/X5Tech/articles/593263/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/companies/amvera/articles/929568/": {
+    "url": "https://habr.com/ru/companies/amvera/articles/929568/",
+    "checkedAt": "2026-11-21T17:25:15.679471+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/companies/amvera/articles/929568/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/companies/amvera/articles/933460/": {
+    "url": "https://habr.com/ru/companies/amvera/articles/933460/",
+    "checkedAt": "2026-11-21T17:25:15.784925+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/companies/amvera/articles/933460/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/companies/amvera/articles/948000/": {
+    "url": "https://habr.com/ru/companies/amvera/articles/948000/",
+    "checkedAt": "2026-11-21T17:25:15.791247+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/companies/amvera/articles/948000/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/companies/mts_ai/articles/791594/": {
+    "url": "https://habr.com/ru/companies/mts_ai/articles/791594/",
+    "checkedAt": "2026-11-21T17:25:15.886243+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/companies/mts_ai/articles/791594/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/companies/manychat/articles/507136/": {
+    "url": "https://habr.com/ru/companies/manychat/articles/507136/",
+    "checkedAt": "2026-11-21T17:25:15.883925+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/companies/manychat/articles/507136/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/companies/sberbank/articles/831346/": {
+    "url": "https://habr.com/ru/companies/sberbank/articles/831346/",
+    "checkedAt": "2026-11-21T17:25:15.918252+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/companies/sberbank/articles/831346/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/companies/doubletapp/articles/736602/": {
+    "url": "https://habr.com/ru/companies/doubletapp/articles/736602/",
+    "checkedAt": "2026-11-21T17:25:15.882718+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/companies/doubletapp/articles/736602/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/companies/otus/articles/787116/": {
+    "url": "https://habr.com/ru/companies/otus/articles/787116/",
+    "checkedAt": "2026-11-21T17:25:15.907911+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/companies/otus/articles/787116/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/companies/sberbank/articles/934938/": {
+    "url": "https://habr.com/ru/companies/sberbank/articles/934938/",
+    "checkedAt": "2026-11-21T17:25:15.989189+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/companies/sberbank/articles/934938/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/articles/961088/": {
+    "url": "https://habr.com/ru/articles/961088/",
+    "checkedAt": "2026-11-21T17:25:15.593844+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/articles/961088/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/companies/amvera/articles/949376/": {
+    "url": "https://habr.com/ru/companies/amvera/articles/949376/",
+    "checkedAt": "2026-11-21T17:25:15.853027+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/companies/amvera/articles/949376/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://karpov.courses/ml-start": {
+    "url": "https://karpov.courses/ml-start",
+    "checkedAt": "2026-11-21T17:25:16.492727+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://karpov.courses/ml-start",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/companies/yandex/articles/588214/": {
+    "url": "https://habr.com/ru/companies/yandex/articles/588214/",
+    "checkedAt": "2026-11-21T17:25:16.245143+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/companies/yandex/articles/588214/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://habr.com/ru/companies/tensor/articles/779698/": {
+    "url": "https://habr.com/ru/companies/tensor/articles/779698/",
+    "checkedAt": "2026-11-21T17:25:16.151933+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://habr.com/ru/companies/tensor/articles/779698/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://llmstudio.ru/blog/langgraph": {
+    "url": "https://llmstudio.ru/blog/langgraph",
+    "checkedAt": "2026-11-21T17:25:16.648328+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://llmstudio.ru/blog/langgraph",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://id-lab.ru/posts/developers/zadachi-iz-intervyu-google-data-science/": {
+    "url": "https://id-lab.ru/posts/developers/zadachi-iz-intervyu-google-data-science/",
+    "checkedAt": "2026-11-21T17:25:16.491340+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://id-lab.ru/posts/developers/zadachi-iz-intervyu-google-data-science/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://huggingface.co/learn/agents-course/unit0/introduction": {
+    "url": "https://huggingface.co/learn/agents-course/unit0/introduction",
+    "checkedAt": "2026-11-21T17:25:16.351628+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://huggingface.co/learn/agents-course/unit0/introduction",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://mlu-explain.github.io/": {
+    "url": "https://mlu-explain.github.io/",
+    "checkedAt": "2026-11-21T17:25:16.849368+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://mlu-explain.github.io/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://mlu-explain.github.io/bias-variance/": {
+    "url": "https://mlu-explain.github.io/bias-variance/",
+    "checkedAt": "2026-11-21T17:25:16.867878+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://mlu-explain.github.io/bias-variance/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://huggingface.co/docs/transformers/v4.28.1/perf_train_gpu_many": {
+    "url": "https://huggingface.co/docs/transformers/v4.28.1/perf_train_gpu_many",
+    "checkedAt": "2026-11-21T17:25:16.308159+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://huggingface.co/docs/transformers/v4.28.1/perf_train_gpu_many",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://leetcode.com/studyplan/top-sql-50/": {
+    "url": "https://leetcode.com/studyplan/top-sql-50/",
+    "checkedAt": "2026-11-21T17:25:16.534774+00:00",
+    "httpStatus": 403,
+    "finalUrl": "https://leetcode.com/studyplan/top-sql-50/",
+    "status": "restricted",
+    "label": "Доступ не подтверждён: ограничение/блокировка (HTTP 403)"
+  },
+  "https://mlcourse.ai/book/index.html": {
+    "url": "https://mlcourse.ai/book/index.html",
+    "checkedAt": "2026-11-21T17:25:16.681427+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://mlcourse.ai/book/index.html",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://leetcode.com/studyplan/30-days-of-pandas/": {
+    "url": "https://leetcode.com/studyplan/30-days-of-pandas/",
+    "checkedAt": "2026-11-21T17:25:16.518611+00:00",
+    "httpStatus": 403,
+    "finalUrl": "https://leetcode.com/studyplan/30-days-of-pandas/",
+    "status": "restricted",
+    "label": "Доступ не подтверждён: ограничение/блокировка (HTTP 403)"
+  },
+  "https://mlu-explain.github.io/decision-tree/": {
+    "url": "https://mlu-explain.github.io/decision-tree/",
+    "checkedAt": "2026-11-21T17:25:16.985209+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://mlu-explain.github.io/decision-tree/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://mlu-explain.github.io/linear-regression/": {
+    "url": "https://mlu-explain.github.io/linear-regression/",
+    "checkedAt": "2026-11-21T17:25:17.024692+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://mlu-explain.github.io/linear-regression/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://learngitbranching.js.org/": {
+    "url": "https://learngitbranching.js.org/",
+    "checkedAt": "2026-11-21T17:25:16.493686+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://learngitbranching.js.org/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://mlu-explain.github.io/logistic-regression/": {
+    "url": "https://mlu-explain.github.io/logistic-regression/",
+    "checkedAt": "2026-11-21T17:25:17.191302+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://mlu-explain.github.io/logistic-regression/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://llmresourceshub.vercel.app/": {
+    "url": "https://llmresourceshub.vercel.app/",
+    "checkedAt": "2026-11-21T17:25:16.577573+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://llmresourceshub.vercel.app/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://mlu-explain.github.io/precision-recall/": {
+    "url": "https://mlu-explain.github.io/precision-recall/",
+    "checkedAt": "2026-11-21T17:25:17.345595+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://mlu-explain.github.io/precision-recall/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://neetcode.io/roadmap": {
+    "url": "https://neetcode.io/roadmap",
+    "checkedAt": "2026-11-21T17:25:17.411720+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://neetcode.io/roadmap",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://mlu-explain.github.io/random-forest/": {
+    "url": "https://mlu-explain.github.io/random-forest/",
+    "checkedAt": "2026-11-21T17:25:17.376863+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://mlu-explain.github.io/random-forest/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://mlu-explain.github.io/roc-auc/": {
+    "url": "https://mlu-explain.github.io/roc-auc/",
+    "checkedAt": "2026-11-21T17:25:17.379351+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://mlu-explain.github.io/roc-auc/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://neetcode.io/practice": {
+    "url": "https://neetcode.io/practice",
+    "checkedAt": "2026-11-21T17:25:17.408360+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://neetcode.io/practice",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://mlu-explain.github.io/train-test-validation/": {
+    "url": "https://mlu-explain.github.io/train-test-validation/",
+    "checkedAt": "2026-11-21T17:25:17.399062+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://mlu-explain.github.io/train-test-validation/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://ohmygit.org/": {
+    "url": "https://ohmygit.org/",
+    "checkedAt": "2026-11-21T17:25:17.440141+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://ohmygit.org/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://huggingface.co/learn/nlp-course/chapter7/6": {
+    "url": "https://huggingface.co/learn/nlp-course/chapter7/6",
+    "checkedAt": "2026-11-21T17:25:16.468042+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://huggingface.co/learn/llm-course/chapter7/6",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://ods.ai/tracks/ml-system-design-23": {
+    "url": "https://ods.ai/tracks/ml-system-design-23",
+    "checkedAt": "2026-11-21T17:25:17.414958+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://ods.ai/tracks/ml-system-design-23",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://start.practicum.yandex/statistics-basic": {
+    "url": "https://start.practicum.yandex/statistics-basic",
+    "checkedAt": "2026-11-21T17:25:17.850633+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://start.practicum.yandex/statistics-basic",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/course/116336/promo?referral=WzExNjMzNiw0OTEzNTQwMTUsMTc0MjQ3Nzk4Mi44MDQ5OTQ4XQ%3A1tvG7a%3AK3rMecG2wXD7AncXYbF_lBMGcbg": {
+    "url": "https://stepik.org/course/116336/promo?referral=WzExNjMzNiw0OTEzNTQwMTUsMTc0MjQ3Nzk4Mi44MDQ5OTQ4XQ%3A1tvG7a%3AK3rMecG2wXD7AncXYbF_lBMGcbg",
+    "checkedAt": "2026-11-21T17:25:17.874920+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/course/116336/promo?referral=WzExNjMzNiw0OTEzNTQwMTUsMTc0MjQ3Nzk4Mi44MDQ5OTQ4XQ%3A1tvG7a%3AK3rMecG2wXD7AncXYbF_lBMGcbg",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/course/100707/promo": {
+    "url": "https://stepik.org/course/100707/promo",
+    "checkedAt": "2026-11-21T17:25:17.872574+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/course/100707/promo",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/course/135003/syllabus?search=5759062668": {
+    "url": "https://stepik.org/course/135003/syllabus?search=5759062668",
+    "checkedAt": "2026-11-21T17:25:18.109633+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/course/135003/promo?search=5759062668#toc",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/course/179694/syllabus": {
+    "url": "https://stepik.org/course/179694/syllabus",
+    "checkedAt": "2026-11-21T17:25:18.216288+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/course/179694/promo#toc",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/course/179694/promo#toc": {
+    "url": "https://stepik.org/course/179694/promo#toc",
+    "checkedAt": "2026-11-21T17:25:18.201253+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/course/179694/promo#toc",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/course/181476/": {
+    "url": "https://stepik.org/course/181476/",
+    "checkedAt": "2026-11-21T17:25:18.250522+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/course/181476/promo",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://proglib.io/p/slozhnost-algoritmov-i-operaciy-na-primere-python-2020-11-03": {
+    "url": "https://proglib.io/p/slozhnost-algoritmov-i-operaciy-na-primere-python-2020-11-03",
+    "checkedAt": "2026-11-21T17:25:17.724611+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://proglib.io/p/slozhnost-algoritmov-i-operaciy-na-primere-python-2020-11-03",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/course/123300/syllabus": {
+    "url": "https://stepik.org/course/123300/syllabus",
+    "checkedAt": "2026-11-21T17:25:18.058771+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/course/123300/promo#toc",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://platform.openai.com/docs/guides/function-calling": {
+    "url": "https://platform.openai.com/docs/guides/function-calling",
+    "checkedAt": "2026-11-21T17:25:17.597823+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://developers.openai.com/api/docs/guides/function-calling",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/course/177216/": {
+    "url": "https://stepik.org/course/177216/",
+    "checkedAt": "2026-11-21T17:25:18.158012+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/course/177216/promo",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/lesson/329905/step/1?unit=313245": {
+    "url": "https://stepik.org/lesson/329905/step/1?unit=313245",
+    "checkedAt": "2026-11-21T17:25:18.789275+00:00",
+    "httpStatus": null,
+    "finalUrl": "https://stepik.org/lesson/329905/step/1?unit=313245",
+    "status": "network_error",
+    "label": "Доступ не подтверждён: ошибка сети/TLS"
+  },
+  "https://sql-academy.org/ru": {
+    "url": "https://sql-academy.org/ru",
+    "checkedAt": "2026-11-21T17:25:17.846550+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://sql-academy.org/ru",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/lesson/1076196/step/1?unit=1086342": {
+    "url": "https://stepik.org/lesson/1076196/step/1?unit=1086342",
+    "checkedAt": "2026-11-21T17:25:18.549431+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/lesson/1076196/step/1?unit=1086342",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/lesson/1420711/step/1?unit=1633794": {
+    "url": "https://stepik.org/lesson/1420711/step/1?unit=1633794",
+    "checkedAt": "2026-11-21T17:25:18.728404+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/lesson/1420711/step/1?unit=1633794",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://publish.obsidian.md/mentoring/tochka/%D0%B3%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8+%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8": {
+    "url": "https://publish.obsidian.md/mentoring/tochka/%D0%B3%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8+%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8",
+    "checkedAt": "2026-11-21T17:25:17.818610+00:00",
+    "httpStatus": 404,
+    "finalUrl": "https://publish.obsidian.md/mentoring/tochka/%D0%B3%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8+%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8",
+    "status": "unavailable",
+    "label": "Недоступна при проверке (HTTP 404)"
+  },
+  "https://stepik.org/lesson/1420705/step/1?unit=1633791": {
+    "url": "https://stepik.org/lesson/1420705/step/1?unit=1633791",
+    "checkedAt": "2026-11-21T17:25:18.565788+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/lesson/1420705/step/1?unit=1633791",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/lesson/329904/step/1?unit=313244": {
+    "url": "https://stepik.org/lesson/329904/step/1?unit=313244",
+    "checkedAt": "2026-11-21T17:25:18.785299+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/lesson/329904/step/1?unit=313244",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/lesson/329366/step/1?unit=312669": {
+    "url": "https://stepik.org/lesson/329366/step/1?unit=312669",
+    "checkedAt": "2026-11-21T17:25:18.745412+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/lesson/329366/step/1?unit=312669",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/lesson/329367/step/1?unit=312670": {
+    "url": "https://stepik.org/lesson/329367/step/1?unit=312670",
+    "checkedAt": "2026-11-21T17:25:18.784648+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/lesson/329367/step/1?unit=312670",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/lesson/329906/step/1?unit=313246": {
+    "url": "https://stepik.org/lesson/329906/step/1?unit=313246",
+    "checkedAt": "2026-11-21T17:25:18.799497+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/lesson/329906/step/1?unit=313246",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/course/209247/syllabus": {
+    "url": "https://stepik.org/course/209247/syllabus",
+    "checkedAt": "2026-11-21T17:25:18.538192+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/course/209247/promo#toc",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/lesson/329907/step/1?unit=313247": {
+    "url": "https://stepik.org/lesson/329907/step/1?unit=313247",
+    "checkedAt": "2026-11-21T17:25:18.915339+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/lesson/329907/step/1?unit=313247",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://readthedocs.org/projects/ml-cheatsheet/downloads/pdf/latest/#page=7.18": {
+    "url": "https://readthedocs.org/projects/ml-cheatsheet/downloads/pdf/latest/#page=7.18",
+    "checkedAt": "2026-11-21T17:25:17.835925+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://app.readthedocs.org/projects/ml-cheatsheet/downloads/pdf/latest/",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/lesson/329908/step/1?unit=313248": {
+    "url": "https://stepik.org/lesson/329908/step/1?unit=313248",
+    "checkedAt": "2026-11-21T17:25:18.957537+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/lesson/329908/step/1?unit=313248",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://olga_karau1ova/": {
+    "url": "https://olga_karau1ova/",
+    "checkedAt": "2026-11-21T17:28:07.659029+00:00",
+    "httpStatus": null,
+    "finalUrl": "https://olga_karau1ova/",
+    "status": "invalid_url",
+    "label": "Некорректный адрес в оригинале; сохранён без исправлений"
+  },
+  "https://stepik.org/lesson/333977/step/1?unit=317388": {
+    "url": "https://stepik.org/lesson/333977/step/1?unit=317388",
+    "checkedAt": "2026-11-21T17:25:19.002870+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/lesson/333977/step/1?unit=317388",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/lesson/333978/step/1?unit=317389": {
+    "url": "https://stepik.org/lesson/333978/step/1?unit=317389",
+    "checkedAt": "2026-11-21T17:25:19.019573+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/lesson/333978/step/1?unit=317389",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/lesson/917932/step/1?unit=923726": {
+    "url": "https://stepik.org/lesson/917932/step/1?unit=923726",
+    "checkedAt": "2026-11-21T17:25:19.023002+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/lesson/917932/step/1?unit=923726",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/lesson/869376/step/1?unit=873538": {
+    "url": "https://stepik.org/lesson/869376/step/1?unit=873538",
+    "checkedAt": "2026-11-21T17:25:19.022382+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/lesson/869376/step/1?unit=873538",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/lesson/917945/step/1?unit=923739": {
+    "url": "https://stepik.org/lesson/917945/step/1?unit=923739",
+    "checkedAt": "2026-11-21T17:25:19.065756+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/lesson/917945/step/1?unit=923739",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://stepik.org/lesson/869375/step/1?unit=873537": {
+    "url": "https://stepik.org/lesson/869375/step/1?unit=873537",
+    "checkedAt": "2026-11-21T17:25:19.020404+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://stepik.org/lesson/869375/step/1?unit=873537",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://www.matburo.ru/ex_tv.php?p1=tvbayes": {
+    "url": "https://www.matburo.ru/ex_tv.php?p1=tvbayes",
+    "checkedAt": "2026-11-21T17:25:19.494478+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.matburo.ru/ex_tv.php?p1=tvbayes",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://t.me/c/2482111540/10525/11206": {
+    "url": "https://t.me/c/2482111540/10525/11206",
+    "checkedAt": "2026-11-21T17:25:19.066699+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://t.me/c/2482111540/10525/11206",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://t.me/tatiwonderland/61": {
+    "url": "https://t.me/tatiwonderland/61",
+    "checkedAt": "2026-11-21T17:25:19.114587+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://t.me/tatiwonderland/61",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://t.me/data_secrets/4412": {
+    "url": "https://t.me/data_secrets/4412",
+    "checkedAt": "2026-11-21T17:25:19.090336+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://t.me/data_secrets/4412",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://t.me/tatiwonderland/62": {
+    "url": "https://t.me/tatiwonderland/62",
+    "checkedAt": "2026-11-21T17:25:19.149864+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://t.me/tatiwonderland/62",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://www.evidentlyai.com/ml-system-design": {
+    "url": "https://www.evidentlyai.com/ml-system-design",
+    "checkedAt": "2026-11-21T17:25:19.264900+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.evidentlyai.com/ml-system-design",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide": {
+    "url": "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide",
+    "checkedAt": "2026-11-21T17:25:19.159253+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://www.promptingguide.ai/ru": {
+    "url": "https://www.promptingguide.ai/ru",
+    "checkedAt": "2026-11-21T17:25:19.596349+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.promptingguide.ai/ru",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://www.youtube.com/@statquest/playlists": {
+    "url": "https://www.youtube.com/@statquest/playlists",
+    "checkedAt": "2026-11-21T17:25:19.806992+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/@statquest/playlists",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/playlist?list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS": {
+    "url": "https://www.youtube.com/playlist?list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS",
+    "checkedAt": "2026-11-21T17:25:19.834021+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/playlist?list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.deeplearning.ai/short-courses/finetuning-large-language-models/": {
+    "url": "https://www.deeplearning.ai/short-courses/finetuning-large-language-models/",
+    "checkedAt": "2026-11-21T17:25:19.191057+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.deeplearning.ai/courses/finetuning-large-language-models",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://www.youtube.com/@TrelisResearch/videos": {
+    "url": "https://www.youtube.com/@TrelisResearch/videos",
+    "checkedAt": "2026-11-21T17:25:19.701075+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/@TrelisResearch/videos",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.sparkplayground.com/pyspark-coding-interview-questions": {
+    "url": "https://www.sparkplayground.com/pyspark-coding-interview-questions",
+    "checkedAt": "2026-11-21T17:25:19.665852+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.sparkplayground.com/pyspark-coding-interview-questions",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://www.notion.so/1daf48226be780a4962fd5d25f575f4f": {
+    "url": "https://www.notion.so/1daf48226be780a4962fd5d25f575f4f",
+    "checkedAt": "2026-11-21T17:25:19.557586+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://app.notion.com/p/1daf48226be780a4962fd5d25f575f4f?__dm_a=1",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab": {
+    "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+    "checkedAt": "2026-11-21T17:25:19.995906+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/playlist?list=PLA0M1Bcd0w8zPwP7t-FgwONhZOHt9rz9E": {
+    "url": "https://www.youtube.com/playlist?list=PLA0M1Bcd0w8zPwP7t-FgwONhZOHt9rz9E",
+    "checkedAt": "2026-11-21T17:25:19.825533+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/playlist?list=PLA0M1Bcd0w8zPwP7t-FgwONhZOHt9rz9E",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr": {
+    "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr",
+    "checkedAt": "2026-11-21T17:25:19.914449+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/playlist?list=PL_CgZ0Ik6XuVkCvwVLBYL2S-KNRlg6u-e": {
+    "url": "https://www.youtube.com/playlist?list=PL_CgZ0Ik6XuVkCvwVLBYL2S-KNRlg6u-e",
+    "checkedAt": "2026-11-21T17:25:20.203105+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/playlist?list=PL_CgZ0Ik6XuVkCvwVLBYL2S-KNRlg6u-e",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/playlist?list=PLXtiZNKIobF66_000vMesvQcKvrSQopMw": {
+    "url": "https://www.youtube.com/playlist?list=PLXtiZNKIobF66_000vMesvQcKvrSQopMw",
+    "checkedAt": "2026-11-21T17:25:19.834594+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/playlist?list=PLXtiZNKIobF66_000vMesvQcKvrSQopMw",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/playlist?list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0": {
+    "url": "https://www.youtube.com/playlist?list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0",
+    "checkedAt": "2026-11-21T17:25:20.459419+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/playlist?list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.sparkplayground.com/tutorials": {
+    "url": "https://www.sparkplayground.com/tutorials",
+    "checkedAt": "2026-11-21T17:25:19.678302+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.sparkplayground.com/tutorials/pyspark",
+    "status": "responds",
+    "label": "URL отвечает (HTTP 200); доступ к платному содержимому не проверялся"
+  },
+  "https://www.youtube.com/watch?v=0g7d-TtPLDk&ab_channel=selfedu": {
+    "url": "https://www.youtube.com/watch?v=0g7d-TtPLDk&ab_channel=selfedu",
+    "checkedAt": "2026-11-21T17:25:20.561934+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=0g7d-TtPLDk&ab_channel=selfedu",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=28XZf0Fv9-0&t=1s&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=28XZf0Fv9-0&t=1s&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:20.603008+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=28XZf0Fv9-0&t=1s&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=0p0o5cmgLdE&ab_channel=IntuitiveMachineLearning": {
+    "url": "https://www.youtube.com/watch?v=0p0o5cmgLdE&ab_channel=IntuitiveMachineLearning",
+    "checkedAt": "2026-11-21T17:25:20.593994+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=0p0o5cmgLdE&ab_channel=IntuitiveMachineLearning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=0mMeaC3gjNI&t=676s&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=0mMeaC3gjNI&t=676s&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:20.592756+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=0mMeaC3gjNI&t=676s&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=49ck7kCyxr4&t=6347s&ab_channel=%D0%93%D0%BB%D0%B5%D0%B1%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2": {
+    "url": "https://www.youtube.com/watch?v=49ck7kCyxr4&t=6347s&ab_channel=%D0%93%D0%BB%D0%B5%D0%B1%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2",
+    "checkedAt": "2026-11-21T17:25:20.689672+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=49ck7kCyxr4&t=6347s&ab_channel=%D0%93%D0%BB%D0%B5%D0%B1%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/playlist?list=PLk4h7dmY2eYExAy8xWyuVqY5BplX65Wtr": {
+    "url": "https://www.youtube.com/playlist?list=PLk4h7dmY2eYExAy8xWyuVqY5BplX65Wtr",
+    "checkedAt": "2026-11-21T17:25:20.417231+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/playlist?list=PLk4h7dmY2eYExAy8xWyuVqY5BplX65Wtr",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=4b5d3muPQmA&ab_channel=StatQuestwithJoshStarmer": {
+    "url": "https://www.youtube.com/watch?v=4b5d3muPQmA&ab_channel=StatQuestwithJoshStarmer",
+    "checkedAt": "2026-11-21T17:25:20.852225+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=4b5d3muPQmA&ab_channel=StatQuestwithJoshStarmer",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=5NfbUTlTs7w&ab_channel=Noukash": {
+    "url": "https://www.youtube.com/watch?v=5NfbUTlTs7w&ab_channel=Noukash",
+    "checkedAt": "2026-11-21T17:25:20.917214+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=5NfbUTlTs7w&ab_channel=Noukash",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=4WcHxtYy3_8&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=4WcHxtYy3_8&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:20.807435+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=4WcHxtYy3_8&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=2uvysYbKdjM&list=WL&index=9": {
+    "url": "https://www.youtube.com/watch?v=2uvysYbKdjM&list=WL&index=9",
+    "checkedAt": "2026-11-21T17:25:20.604072+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=2uvysYbKdjM&list=WL&index=9",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=5qLVUO0q644&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=3&ab_channel=Young%26%26Yandex": {
+    "url": "https://www.youtube.com/watch?v=5qLVUO0q644&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=3&ab_channel=Young%26%26Yandex",
+    "checkedAt": "2026-11-21T17:25:21.161687+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=5qLVUO0q644&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=3&ab_channel=Young%26%26Yandex",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=5qLVUO0q644&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=2": {
+    "url": "https://www.youtube.com/watch?v=5qLVUO0q644&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=2",
+    "checkedAt": "2026-11-21T17:25:21.091894+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=5qLVUO0q644&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=2",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=8sp5aqyH6Oc&ab_channel=StartCareerinDS": {
+    "url": "https://www.youtube.com/watch?v=8sp5aqyH6Oc&ab_channel=StartCareerinDS",
+    "checkedAt": "2026-11-21T17:25:21.285287+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=8sp5aqyH6Oc&ab_channel=StartCareerinDS",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=9BoVCdedvW8&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=9BoVCdedvW8&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:21.331098+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=9BoVCdedvW8&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=AoBykkvOMDw&t=2s&ab_channel=selfedu": {
+    "url": "https://www.youtube.com/watch?v=AoBykkvOMDw&t=2s&ab_channel=selfedu",
+    "checkedAt": "2026-11-21T17:25:21.368569+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=AoBykkvOMDw&t=2s&ab_channel=selfedu",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=DqUtGa99_H8&ab_channel=Young%26%26Yandex": {
+    "url": "https://www.youtube.com/watch?v=DqUtGa99_H8&ab_channel=Young%26%26Yandex",
+    "checkedAt": "2026-11-21T17:25:21.461634+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=DqUtGa99_H8&ab_channel=Young%26%26Yandex",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=EuBBz3bI-aA&ab_channel=StatQuestwithJoshStarmer": {
+    "url": "https://www.youtube.com/watch?v=EuBBz3bI-aA&ab_channel=StatQuestwithJoshStarmer",
+    "checkedAt": "2026-11-21T17:25:21.543786+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=EuBBz3bI-aA&ab_channel=StatQuestwithJoshStarmer",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=BO5TKBr_uUc&ab_channel=%D0%A6%D0%B5%D0%BD%D1%82%D1%80digital%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B9ITtensive": {
+    "url": "https://www.youtube.com/watch?v=BO5TKBr_uUc&ab_channel=%D0%A6%D0%B5%D0%BD%D1%82%D1%80digital%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B9ITtensive",
+    "checkedAt": "2026-11-21T17:25:21.454351+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=BO5TKBr_uUc&ab_channel=%D0%A6%D0%B5%D0%BD%D1%82%D1%80digital%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B9ITtensive",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=8jVUPFtYR0g&ab_channel=%D0%A6%D0%B5%D0%BD%D1%82%D1%80digital%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B9ITtensive": {
+    "url": "https://www.youtube.com/watch?v=8jVUPFtYR0g&ab_channel=%D0%A6%D0%B5%D0%BD%D1%82%D1%80digital%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B9ITtensive",
+    "checkedAt": "2026-11-21T17:25:21.218753+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=8jVUPFtYR0g&ab_channel=%D0%A6%D0%B5%D0%BD%D1%82%D1%80digital%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B9ITtensive",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=EHZJMz6zyFE&t=1s&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=EHZJMz6zyFE&t=1s&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:21.528163+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=EHZJMz6zyFE&t=1s&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=AfnBHL832Eg&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=AfnBHL832Eg&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:21.350883+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=AfnBHL832Eg&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=FgakZw6K1QQ&ab_channel=StatQuestwithJoshStarmer": {
+    "url": "https://www.youtube.com/watch?v=FgakZw6K1QQ&ab_channel=StatQuestwithJoshStarmer",
+    "checkedAt": "2026-11-21T17:25:21.791484+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=FgakZw6K1QQ&ab_channel=StatQuestwithJoshStarmer",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=EyxcTnHl1wk&ab_channel=StartCareerinDS": {
+    "url": "https://www.youtube.com/watch?v=EyxcTnHl1wk&ab_channel=StartCareerinDS",
+    "checkedAt": "2026-11-21T17:25:21.654642+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=EyxcTnHl1wk&ab_channel=StartCareerinDS",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=HMOI_lkzW08&ab_channel=StatQuestwithJoshStarmer": {
+    "url": "https://www.youtube.com/watch?v=HMOI_lkzW08&ab_channel=StatQuestwithJoshStarmer",
+    "checkedAt": "2026-11-21T17:25:22.008919+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=HMOI_lkzW08&ab_channel=StatQuestwithJoshStarmer",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=HIHAPyuezkU&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=7&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD": {
+    "url": "https://www.youtube.com/watch?v=HIHAPyuezkU&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=7&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD",
+    "checkedAt": "2026-11-21T17:25:21.943364+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=HIHAPyuezkU&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=7&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=HIHAPyuezkU&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=6": {
+    "url": "https://www.youtube.com/watch?v=HIHAPyuezkU&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=6",
+    "checkedAt": "2026-11-21T17:25:21.939938+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=HIHAPyuezkU&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=6",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=JElfEE1OrSU&ab_channel=DeepLearningSchool": {
+    "url": "https://www.youtube.com/watch?v=JElfEE1OrSU&ab_channel=DeepLearningSchool",
+    "checkedAt": "2026-11-21T17:25:22.109144+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=JElfEE1OrSU&ab_channel=DeepLearningSchool",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=GB9ByFAIAH4&t=2759s": {
+    "url": "https://www.youtube.com/watch?v=GB9ByFAIAH4&t=2759s",
+    "checkedAt": "2026-11-21T17:25:21.849745+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=GB9ByFAIAH4&t=2759s",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=JkyTxNbiMn4&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=11&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD": {
+    "url": "https://www.youtube.com/watch?v=JkyTxNbiMn4&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=11&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD",
+    "checkedAt": "2026-11-21T17:25:22.182103+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=JkyTxNbiMn4&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=11&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=JvrlZIc0ObE&t=3290s": {
+    "url": "https://www.youtube.com/watch?v=JvrlZIc0ObE&t=3290s",
+    "checkedAt": "2026-11-21T17:25:22.192721+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=JvrlZIc0ObE&t=3290s",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=JIp14T9bvvc": {
+    "url": "https://www.youtube.com/watch?v=JIp14T9bvvc",
+    "checkedAt": "2026-11-21T17:25:22.163044+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=JIp14T9bvvc",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=KJA9A1q9l7E&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=KJA9A1q9l7E&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:22.238867+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=KJA9A1q9l7E&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=MA66hFXaq7o&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=2": {
+    "url": "https://www.youtube.com/watch?v=MA66hFXaq7o&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=2",
+    "checkedAt": "2026-11-21T17:25:22.419889+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=MA66hFXaq7o&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=2",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&ab_channel=StatQuestwithJoshStarmer": {
+    "url": "https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&ab_channel=StatQuestwithJoshStarmer",
+    "checkedAt": "2026-11-21T17:25:22.100802+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&ab_channel=StatQuestwithJoshStarmer",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=MJwAoWFTMWw&t=789s&ab_channel=DeepLearningSchool": {
+    "url": "https://www.youtube.com/watch?v=MJwAoWFTMWw&t=789s&ab_channel=DeepLearningSchool",
+    "checkedAt": "2026-11-21T17:25:22.462614+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=MJwAoWFTMWw&t=789s&ab_channel=DeepLearningSchool",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=NEaUSP4YerM&ab_channel=StatQuestwithJoshStarmer": {
+    "url": "https://www.youtube.com/watch?v=NEaUSP4YerM&ab_channel=StatQuestwithJoshStarmer",
+    "checkedAt": "2026-11-21T17:25:22.566305+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=NEaUSP4YerM&ab_channel=StatQuestwithJoshStarmer",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=O6FXzCFnJxM&feature=youtu.be": {
+    "url": "https://www.youtube.com/watch?v=O6FXzCFnJxM&feature=youtu.be",
+    "checkedAt": "2026-11-21T17:25:22.577408+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=O6FXzCFnJxM&feature=youtu.be",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=R1ccYYpEpiA&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=3&ab_channel=Young%26%26Yandex": {
+    "url": "https://www.youtube.com/watch?v=R1ccYYpEpiA&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=3&ab_channel=Young%26%26Yandex",
+    "checkedAt": "2026-11-21T17:25:22.816731+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=R1ccYYpEpiA&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=3&ab_channel=Young%26%26Yandex",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=RDZUdRSDOok&ab_channel=StatQuestwithJoshStarmer": {
+    "url": "https://www.youtube.com/watch?v=RDZUdRSDOok&ab_channel=StatQuestwithJoshStarmer",
+    "checkedAt": "2026-11-21T17:25:22.825763+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=RDZUdRSDOok&ab_channel=StatQuestwithJoshStarmer",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=Q824WEEnDVA&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=5&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD": {
+    "url": "https://www.youtube.com/watch?v=Q824WEEnDVA&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=5&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD",
+    "checkedAt": "2026-11-21T17:25:22.761973+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=Q824WEEnDVA&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=5&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=QVs8QjuAN74&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=1": {
+    "url": "https://www.youtube.com/watch?v=QVs8QjuAN74&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=1",
+    "checkedAt": "2026-11-21T17:25:22.788132+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=QVs8QjuAN74&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=1",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=Nrq74MRHHJs": {
+    "url": "https://www.youtube.com/watch?v=Nrq74MRHHJs",
+    "checkedAt": "2026-11-21T17:25:22.575678+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=Nrq74MRHHJs",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=Sjof9d8R96E&ab_channel=hyperlee": {
+    "url": "https://www.youtube.com/watch?v=Sjof9d8R96E&ab_channel=hyperlee",
+    "checkedAt": "2026-11-21T17:25:23.105759+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=Sjof9d8R96E&ab_channel=hyperlee",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=WKYPQtqE-m0&list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni&index=16&ab_channel=karpov.courses": {
+    "url": "https://www.youtube.com/watch?v=WKYPQtqE-m0&list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni&index=16&ab_channel=karpov.courses",
+    "checkedAt": "2026-11-21T17:25:23.182654+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=WKYPQtqE-m0&list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni&index=16&ab_channel=karpov.courses",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=VPg2Uu1MYgI&list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni&index=19&ab_channel=karpov.courses": {
+    "url": "https://www.youtube.com/watch?v=VPg2Uu1MYgI&list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni&index=19&ab_channel=karpov.courses",
+    "checkedAt": "2026-11-21T17:25:23.129075+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=VPg2Uu1MYgI&list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni&index=19&ab_channel=karpov.courses",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=QW-09jHQH-w&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=QW-09jHQH-w&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:22.790022+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=QW-09jHQH-w&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=XsuCOfpf8Ic&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=XsuCOfpf8Ic&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:23.258447+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=XsuCOfpf8Ic&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=RNUCNtPZ7gM&ab_channel=%D0%A6%D0%B5%D0%BD%D1%82%D1%80digital%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B9ITtensive": {
+    "url": "https://www.youtube.com/watch?v=RNUCNtPZ7gM&ab_channel=%D0%A6%D0%B5%D0%BD%D1%82%D1%80digital%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B9ITtensive",
+    "checkedAt": "2026-11-21T17:25:22.933741+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=RNUCNtPZ7gM&ab_channel=%D0%A6%D0%B5%D0%BD%D1%82%D1%80digital%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B9ITtensive",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=_TxH-bodeKk&ab_channel=selfedu": {
+    "url": "https://www.youtube.com/watch?v=_TxH-bodeKk&ab_channel=selfedu",
+    "checkedAt": "2026-11-21T17:25:23.567270+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=_TxH-bodeKk&ab_channel=selfedu",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=ZvaELFv5IpM&ab_channel=ComputerScienceEngineering": {
+    "url": "https://www.youtube.com/watch?v=ZvaELFv5IpM&ab_channel=ComputerScienceEngineering",
+    "checkedAt": "2026-11-21T17:25:23.538150+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=ZvaELFv5IpM&ab_channel=ComputerScienceEngineering",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=_bcAK_1a72k&ab_channel=VertDider": {
+    "url": "https://www.youtube.com/watch?v=_bcAK_1a72k&ab_channel=VertDider",
+    "checkedAt": "2026-11-21T17:25:23.620741+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=_bcAK_1a72k&ab_channel=VertDider",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=aWEdaXAZ01M&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=aWEdaXAZ01M&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:23.753429+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=aWEdaXAZ01M&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=bzsad4UL8yc&ab_channel=MikhailBortnikov": {
+    "url": "https://www.youtube.com/watch?v=bzsad4UL8yc&ab_channel=MikhailBortnikov",
+    "checkedAt": "2026-11-21T17:25:23.773570+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=bzsad4UL8yc&ab_channel=MikhailBortnikov",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=dA-NhCtrrVE&ab_channel=ChrisAlexiuk": {
+    "url": "https://www.youtube.com/watch?v=dA-NhCtrrVE&ab_channel=ChrisAlexiuk",
+    "checkedAt": "2026-11-21T17:25:23.783934+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=dA-NhCtrrVE&ab_channel=ChrisAlexiuk",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=e7Ic4zLWYxc&ab_channel=%D0%94%D0%B0%D1%82%D0%B0%D0%91%D0%BE%D0%B9": {
+    "url": "https://www.youtube.com/watch?v=e7Ic4zLWYxc&ab_channel=%D0%94%D0%B0%D1%82%D0%B0%D0%91%D0%BE%D0%B9",
+    "checkedAt": "2026-11-21T17:25:23.881950+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=e7Ic4zLWYxc&ab_channel=%D0%94%D0%B0%D1%82%D0%B0%D0%91%D0%BE%D0%B9",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=ZNJ3lKyI-EY&t=1s&ab_channel=%D0%93%D0%BB%D0%B5%D0%B1%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2": {
+    "url": "https://www.youtube.com/watch?v=ZNJ3lKyI-EY&t=1s&ab_channel=%D0%93%D0%BB%D0%B5%D0%B1%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2",
+    "checkedAt": "2026-11-21T17:25:23.528838+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=ZNJ3lKyI-EY&t=1s&ab_channel=%D0%93%D0%BB%D0%B5%D0%B1%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=dpIz4qj_MMY": {
+    "url": "https://www.youtube.com/watch?v=dpIz4qj_MMY",
+    "checkedAt": "2026-11-21T17:25:23.837743+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=dpIz4qj_MMY",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=cVDIbEsCTow&t=2358s": {
+    "url": "https://www.youtube.com/watch?v=cVDIbEsCTow&t=2358s",
+    "checkedAt": "2026-11-21T17:25:23.775108+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=cVDIbEsCTow&t=2358s",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=j8L07nuns2Y&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=j8L07nuns2Y&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:24.260669+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=j8L07nuns2Y&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=iOrNbK2T92M": {
+    "url": "https://www.youtube.com/watch?v=iOrNbK2T92M",
+    "checkedAt": "2026-11-21T17:25:24.205730+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=iOrNbK2T92M",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=io_3ZEfGE_E&ab_channel=Lex": {
+    "url": "https://www.youtube.com/watch?v=io_3ZEfGE_E&ab_channel=Lex",
+    "checkedAt": "2026-11-21T17:25:24.218286+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=io_3ZEfGE_E&ab_channel=Lex",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=Wwg6dU1pX4A&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=3&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD": {
+    "url": "https://www.youtube.com/watch?v=Wwg6dU1pX4A&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=3&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD",
+    "checkedAt": "2026-11-21T17:25:23.241705+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=Wwg6dU1pX4A&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=3&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=k3UJOG-DKHE&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=1&ab_channel=Young%26%26Yandex": {
+    "url": "https://www.youtube.com/watch?v=k3UJOG-DKHE&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=1&ab_channel=Young%26%26Yandex",
+    "checkedAt": "2026-11-21T17:25:24.386465+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=k3UJOG-DKHE&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=1&ab_channel=Young%26%26Yandex",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=eC6Hd1hFvos&list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0&index=5&ab_channel=ShawTalebi": {
+    "url": "https://www.youtube.com/watch?v=eC6Hd1hFvos&list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0&index=5&ab_channel=ShawTalebi",
+    "checkedAt": "2026-11-21T17:25:24.006837+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=eC6Hd1hFvos&list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0&index=5&ab_channel=ShawTalebi",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=lP1l8YPjSQY&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=8&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD": {
+    "url": "https://www.youtube.com/watch?v=lP1l8YPjSQY&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=8&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD",
+    "checkedAt": "2026-11-21T17:25:24.428140+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=lP1l8YPjSQY&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=8&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=m7P7bnLxIc4&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=m7P7bnLxIc4&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:24.457457+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=m7P7bnLxIc4&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=peW3bHDicj8&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD": {
+    "url": "https://www.youtube.com/watch?v=peW3bHDicj8&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD",
+    "checkedAt": "2026-11-21T17:25:24.519504+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=peW3bHDicj8&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=oJ-reyHnWbU&ab_channel=%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0": {
+    "url": "https://www.youtube.com/watch?v=oJ-reyHnWbU&ab_channel=%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0",
+    "checkedAt": "2026-11-21T17:25:24.510031+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=oJ-reyHnWbU&ab_channel=%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=nyeh7uJFyY4&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=nyeh7uJFyY4&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:24.502416+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=nyeh7uJFyY4&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=rBIVch1h5qc&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=4&ab_channel=Young%26%26Yandex": {
+    "url": "https://www.youtube.com/watch?v=rBIVch1h5qc&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=4&ab_channel=Young%26%26Yandex",
+    "checkedAt": "2026-11-21T17:25:24.767344+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=rBIVch1h5qc&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=4&ab_channel=Young%26%26Yandex",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=sK_7v3mEQJU": {
+    "url": "https://www.youtube.com/watch?v=sK_7v3mEQJU",
+    "checkedAt": "2026-11-21T17:25:24.933646+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=sK_7v3mEQJU",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=rawnIo_XtYY&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=rawnIo_XtYY&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:24.873966+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=rawnIo_XtYY&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=ruVK07YF-RU&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=ruVK07YF-RU&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:24.876120+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=ruVK07YF-RU&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=svAtnZ5XjSI&ab_channel=selfedu": {
+    "url": "https://www.youtube.com/watch?v=svAtnZ5XjSI&ab_channel=selfedu",
+    "checkedAt": "2026-11-21T17:25:24.966759+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=svAtnZ5XjSI&ab_channel=selfedu",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=t509sv5MT0w&ab_channel=DeepFindr": {
+    "url": "https://www.youtube.com/watch?v=t509sv5MT0w&ab_channel=DeepFindr",
+    "checkedAt": "2026-11-21T17:25:25.006875+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=t509sv5MT0w&ab_channel=DeepFindr",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=v6PPG8J_Egs&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=v6PPG8J_Egs&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:25.055579+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=v6PPG8J_Egs&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=uJpDzHGUamg&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=uJpDzHGUamg&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:25.040347+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=uJpDzHGUamg&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=tqhsbEYKJRI&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=tqhsbEYKJRI&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:25.009849+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=tqhsbEYKJRI&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=vtSgGDbkAq0&ab_channel=%D0%93%D0%BB%D0%B5%D0%B1%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2": {
+    "url": "https://www.youtube.com/watch?v=vtSgGDbkAq0&ab_channel=%D0%93%D0%BB%D0%B5%D0%B1%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2",
+    "checkedAt": "2026-11-21T17:25:25.140037+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=vtSgGDbkAq0&ab_channel=%D0%93%D0%BB%D0%B5%D0%B1%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=vh2smjQyhp8&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=vh2smjQyhp8&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:25.132748+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=vh2smjQyhp8&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=vACmNV1xPDA&ab_channel=%D0%9B%D1%91%D1%88%D0%B0%D0%91%D1%83%D1%85%D1%82%D0%B8%D1%8F%D1%80%D0%BE%D0%B2": {
+    "url": "https://www.youtube.com/watch?v=vACmNV1xPDA&ab_channel=%D0%9B%D1%91%D1%88%D0%B0%D0%91%D1%83%D1%85%D1%82%D0%B8%D1%8F%D1%80%D0%BE%D0%B2",
+    "checkedAt": "2026-11-21T17:25:25.109354+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=vACmNV1xPDA&ab_channel=%D0%9B%D1%91%D1%88%D0%B0%D0%91%D1%83%D1%85%D1%82%D0%B8%D1%8F%D1%80%D0%BE%D0%B2",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://www.youtube.com/watch?v=zMAS3Bbq1bk&ab_channel=machinelearrrning": {
+    "url": "https://www.youtube.com/watch?v=zMAS3Bbq1bk&ab_channel=machinelearrrning",
+    "checkedAt": "2026-11-21T17:25:25.438130+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=zMAS3Bbq1bk&ab_channel=machinelearrrning",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://youtu.be/HVXime0nQeI": {
+    "url": "https://youtu.be/HVXime0nQeI",
+    "checkedAt": "2026-11-21T17:25:25.573720+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?v=HVXime0nQeI&feature=youtu.be",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://youtu.be/EMXfZB8FVUA?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4": {
+    "url": "https://youtu.be/EMXfZB8FVUA?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4",
+    "checkedAt": "2026-11-21T17:25:25.567864+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&v=EMXfZB8FVUA&feature=youtu.be",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://xn--%20-5cddbedrjadrwf6dllej8bddn/": {
+    "url": "https://xn--%20-5cddbedrjadrwf6dllej8bddn/",
+    "checkedAt": "2026-11-21T17:28:07.659219+00:00",
+    "httpStatus": null,
+    "finalUrl": "https://xn--%20-5cddbedrjadrwf6dllej8bddn/",
+    "status": "invalid_url",
+    "label": "Некорректный адрес в оригинале; сохранён без исправлений"
+  },
+  "https://youtu.be/LU5FlFYLHo0?list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS": {
+    "url": "https://youtu.be/LU5FlFYLHo0?list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS",
+    "checkedAt": "2026-11-21T17:25:25.602641+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&v=LU5FlFYLHo0&feature=youtu.be",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://youtu.be/sEqGtjnJE2o?list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS": {
+    "url": "https://youtu.be/sEqGtjnJE2o?list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS",
+    "checkedAt": "2026-11-21T17:25:25.649894+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&v=sEqGtjnJE2o&feature=youtu.be",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  },
+  "https://youtu.be/ynG6snP_msM?list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS": {
+    "url": "https://youtu.be/ynG6snP_msM?list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS",
+    "checkedAt": "2026-11-21T17:25:25.675515+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.youtube.com/watch?list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&v=ynG6snP_msM&feature=youtu.be",
+    "status": "page_only",
+    "label": "Страница отвечает (HTTP 200); воспроизведение видео и ограничения входа не проверены"
+  }
+}

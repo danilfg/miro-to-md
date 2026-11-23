@@ -1,0 +1,99 @@
+{
+  "courses": [
+    {
+      "slug": "agents-rag",
+      "title": "Agents + RAG",
+      "items": 184,
+      "modules": 12,
+      "links": 199,
+      "uniqueLinks": 176,
+      "unassigned": 0,
+      "connectors": 44,
+      "images": 2,
+      "unsupported": 1,
+      "repeatedNumbers": [
+        2
+      ]
+    },
+    {
+      "slug": "classic-ml-dl",
+      "title": "Classic ML и DL",
+      "items": 223,
+      "modules": 13,
+      "links": 240,
+      "uniqueLinks": 212,
+      "unassigned": 0,
+      "connectors": 57,
+      "images": 1,
+      "unsupported": 2,
+      "repeatedNumbers": [
+        2,
+        3,
+        7
+      ]
+    },
+    {
+      "slug": "nlp-finetuning",
+      "title": "NLP finetuning",
+      "items": 163,
+      "modules": 10,
+      "links": 170,
+      "uniqueLinks": 150,
+      "unassigned": 0,
+      "connectors": 36,
+      "images": 2,
+      "unsupported": 1,
+      "repeatedNumbers": [
+        2,
+        5
+      ]
+    }
+  ],
+  "zipValidation": [
+    {
+      "slug": "agents-rag",
+      "valid": true,
+      "sizeBytes": 66190,
+      "files": 6,
+      "images": 2,
+      "stages": 13,
+      "lessons": 122
+    },
+    {
+      "slug": "classic-ml-dl",
+      "valid": true,
+      "sizeBytes": 71092,
+      "files": 5,
+      "images": 1,
+      "stages": 14,
+      "lessons": 156
+    },
+    {
+      "slug": "nlp-finetuning",
+      "valid": true,
+      "sizeBytes": 59522,
+      "files": 6,
+      "images": 2,
+      "stages": 11,
+      "lessons": 110
+    }
+  ],
+  "objectsCovered": 570,
+  "uniqueUrlsChecked": 262,
+  "htmlAnchorOccurrences": 612,
+  "lostHrefCount": 0,
+  "unassigned": 0,
+  "linkStatuses": {
+    "responds": 150,
+    "unavailable": 2,
+    "auth_required": 9,
+    "restricted": 2,
+    "network_error": 1,
+    "invalid_url": 2,
+    "page_only": 96
+  },
+  "visualConfirmation": "partial: supplied overview and module closeup only; no out/visual/*.png",
+  "ocrUsed": false,
+  "boardModified": false,
+  "published": false
+}

@@ -1,0 +1,241 @@
+﻿item_id,section,title,url,origin,validHttps
+3458764691140220035,3458764691140220034,SQL Academy,https://sql-academy.org/ru,content,True
+3458764691140220037,3458764691140220030,Яндекса по статистике и A/B тестированию,https://start.practicum.yandex/statistics-basic,content,True
+3458764691140220038,3458764691140220030,Воркшоп A/B тестов от Бабушкина,https://www.youtube.com/watch?v=O6FXzCFnJxM&feature=youtu.be,content,True
+3458764691140220040,3458764691140220029,Самые популярные ЗАДАЧИ на ТЕРВЕР,https://www.youtube.com/watch?v=5NfbUTlTs7w&ab_channel=Noukash,content,True
+3458764691140220040,3458764691140220029,Задачи из интервью Data Science,https://id-lab.ru/posts/developers/zadachi-iz-intervyu-google-data-science/,content,True
+3458764691140220040,3458764691140220029,Теорема Байеса [3Blue1Brown],https://www.youtube.com/watch?v=_bcAK_1a72k&ab_channel=VertDider,content,True
+3458764691140220040,3458764691140220029,Задачи на Теорму Байеса,https://www.matburo.ru/ex_tv.php?p1=tvbayes,content,True
+3458764691140220041,3458764691140220029,видео,https://disk.yandex.ru/d/xT-bQBN7LcIC6g,content,True
+3458764691140220046,3458764691140220032,RoadMap от NeedCode`a,https://neetcode.io/roadmap,content,True
+3458764691140220048,3458764691140220032,leetcode sql 50,https://leetcode.com/studyplan/top-sql-50/,content,True
+3458764691140220050,3458764691140220032,статью с хабра,https://habr.com/ru/articles/782608/,content,True
+3458764691140220050,3458764691140220032,статья,https://proglib.io/p/slozhnost-algoritmov-i-operaciy-na-primere-python-2020-11-03,content,True
+3458764691140220056,3458764691140220032,сборника на leetcode,https://leetcode.com/studyplan/30-days-of-pandas/,content,True
+3458764691140220067,3458764691140220031,Тренировки по ML. Лекция 1: Вводная по ML + knn,https://www.youtube.com/watch?v=k3UJOG-DKHE&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=1&ab_channel=Young%26%26Yandex,content,True
+3458764691140220067,3458764691140220031,Функционалы потерь и метрики регрессии. Простым языком!,https://www.youtube.com/watch?v=EyxcTnHl1wk&ab_channel=StartCareerinDS,content,True
+3458764691140220067,3458764691140220031,"Метрики в задачах регрессии. MSE, MAE, MSLE. Машинное обучение",https://www.youtube.com/watch?v=io_3ZEfGE_E&ab_channel=Lex,content,True
+3458764691140220067,3458764691140220031,"МЕТРИКИ РЕГРЕССИИ В МАШИННОМ ОБУЧЕНИИ | MAE, MSE, RMSE, R2, коэффициент детерминации.",https://www.youtube.com/watch?v=vh2smjQyhp8&ab_channel=machinelearrrning,content,True
+3458764691140220067,3458764691140220031,Курс «Машинное обучение 1». Лекция 1 (Евгений Соколов),https://www.youtube.com/watch?v=QVs8QjuAN74&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=1,content,True
+3458764691140220067,3458764691140220031,ML Handbook 1.3. Машинное обучение,https://education.yandex.ru/handbook/ml/article/mashinnoye-obucheniye,content,True
+3458764691140220067,3458764691140220031,Практика,https://drive.google.com/drive/folders/1XQyc7ddb40pueR7wrPIjP_qhDHjPCbvy?usp=sharing,content,True
+3458764691140220068,3458764691140220031,РЕАЛИЗАЦИЯ ЛИНЕЙНОЙ РЕГРЕССИИ | Линейная регрессия | LinearRegression | МАШИННОЕ ОБУЧЕНИЕ,https://www.youtube.com/watch?v=KJA9A1q9l7E&ab_channel=machinelearrrning,content,True
+3458764691140220068,3458764691140220031,mlu-explain,https://mlu-explain.github.io/linear-regression/,content,True
+3458764691140220068,3458764691140220031,Тренировки по ML. Лекция 2: Линейная регрессия и регуляризация,https://www.youtube.com/watch?v=5qLVUO0q644&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=2,content,True
+3458764691140220068,3458764691140220031,Курс «Машинное обучение 1». Лекция 2 (Евгений Соколов),https://www.youtube.com/watch?v=MA66hFXaq7o&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=2,content,True
+3458764691140220068,3458764691140220031,ML Handbook 2.1. Линейные модели,https://education.yandex.ru/handbook/ml/article/linear-models,content,True
+3458764691140220068,3458764691140220031,Практика,https://drive.google.com/drive/folders/1InNNnSGyz1yjl9B8VzSsyQSfc4HCl6-M?usp=sharing,content,True
+3458764691140220068,3458764691140220031,Ссылка на данные,https://disk.yandex.ru/d/guhN1YgFKT41qQ,content,True
+3458764691140220069,3458764691140220031,Градиентный спуск,https://www.youtube.com/watch?v=BO5TKBr_uUc&ab_channel=%D0%A6%D0%B5%D0%BD%D1%82%D1%80digital%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B9ITtensive,content,True
+3458764691140220069,3458764691140220031,Машинное обучение: градиентный спуск для новичков с практикой в Python,https://www.youtube.com/watch?v=e7Ic4zLWYxc&ab_channel=%D0%94%D0%B0%D1%82%D0%B0%D0%91%D0%BE%D0%B9,content,True
+3458764691140220069,3458764691140220031,mlu-explain,https://mlu-explain.github.io/linear-regression/,content,True
+3458764691140220069,3458764691140220031,Тренировки по ML. Лекция 2: Линейная регрессия и регуляризация,https://www.youtube.com/watch?v=5qLVUO0q644&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=2,content,True
+3458764691140220069,3458764691140220031,Курс «Машинное обучение 1». Лекция 3 (Евгений Соколов),https://www.youtube.com/watch?v=Wwg6dU1pX4A&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=3&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD,content,True
+3458764691140220069,3458764691140220031,ML Handbook 2.1. Линейные модели,https://education.yandex.ru/handbook/ml/article/linear-models,content,True
+3458764691140220069,3458764691140220031,Практика,https://drive.google.com/drive/folders/1_7hy_lSz93OL_3_p4IsDB-cgLxPGmyR9?usp=sharing,content,True
+3458764691140220070,3458764691140220031,Разбиение выборки,https://www.youtube.com/watch?v=8jVUPFtYR0g&ab_channel=%D0%A6%D0%B5%D0%BD%D1%82%D1%80digital%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B9ITtensive,content,True
+3458764691140220070,3458764691140220031,Machine Learning. Урок №2. Кросс - валидация/Сross-validation,https://www.youtube.com/watch?v=Sjof9d8R96E&ab_channel=hyperlee,content,True
+3458764691140220070,3458764691140220031,train-test-validation,https://mlu-explain.github.io/train-test-validation/,content,True
+3458764691140220070,3458764691140220031,Практика,https://drive.google.com/drive/folders/1SbPrD9npyINw3YQWTE_bdL8tKP9LCz8U?usp=sharing,content,True
+3458764691140220073,3458764691140220031,Линейная регрессия,https://stepik.org/lesson/329366/step/1?unit=312669,content,True
+3458764691140220074,3458764691140220031,"ПЕРЕОБУЧЕНИЕ И НЕДООБУЧЕНИЕ В МАШИННОМ ОБУЧЕНИИ | overfitting, underfitting для регрессии",https://www.youtube.com/watch?v=m7P7bnLxIc4&ab_channel=machinelearrrning,content,True
+3458764691140220074,3458764691140220031,Что делать с переобучением | Методы борьбы с переобучением | МАШИННОЕ ОБУЧЕНИЕ,https://www.youtube.com/watch?v=tqhsbEYKJRI&ab_channel=machinelearrrning,content,True
+3458764691140220074,3458764691140220031,"Регуляризация простыми словами | L1, L2, Elastic Net | Lasso, Ridge | Машинное обучение",https://www.youtube.com/watch?v=4WcHxtYy3_8&ab_channel=machinelearrrning,content,True
+3458764691140220074,3458764691140220031,Почему L1 регуляризация отбирает признаки? Понятное объяснение,https://www.youtube.com/watch?v=vACmNV1xPDA&ab_channel=%D0%9B%D1%91%D1%88%D0%B0%D0%91%D1%83%D1%85%D1%82%D0%B8%D1%8F%D1%80%D0%BE%D0%B2,content,True
+3458764691140220074,3458764691140220031,StandardScaler| MinMaxScaler | МАСШТАБИРОВАНИЕ ДАННЫХ | МАШИННОЕ ОБУЧЕНИЕ,https://www.youtube.com/watch?v=XsuCOfpf8Ic&ab_channel=machinelearrrning,content,True
+3458764691140220074,3458764691140220031,Тренировки по ML. Лекция 2: Линейная регрессия и регуляризация,https://www.youtube.com/watch?v=5qLVUO0q644&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=3&ab_channel=Young%26%26Yandex,content,True
+3458764691140220074,3458764691140220031,Курс «Машинное обучение 1». Лекция 3 (Евгений Соколов),https://www.youtube.com/watch?v=Wwg6dU1pX4A&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=3&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD,content,True
+3458764691140220074,3458764691140220031,ML Handbook 2.1. Линейные модели,https://education.yandex.ru/handbook/ml/article/linear-models,content,True
+3458764691140220074,3458764691140220031,Практика,https://drive.google.com/drive/folders/1YEGLEVUOOMGzcDSenpAzXWT9DZI3uHHP?usp=sharing,content,True
+3458764691140220076,3458764691140220031,"Логистическая регрессия, самое простое объяснение!",https://www.youtube.com/watch?v=8sp5aqyH6Oc&ab_channel=StartCareerinDS,content,True
+3458764691140220076,3458764691140220031,Логистическая Регрессия | Logistic Regression | Линейная модель для классификации |МАШИННОЕ ОБУЧЕНИЕ,https://www.youtube.com/watch?v=9BoVCdedvW8&ab_channel=machinelearrrning,content,True
+3458764691140220076,3458764691140220031,Реализация модели Логистическая Регрессия | Logistic Regression | Линейная модель для классификации,https://www.youtube.com/watch?v=ruVK07YF-RU&ab_channel=machinelearrrning,content,True
+3458764691140220076,3458764691140220031,mlu-explain,https://mlu-explain.github.io/logistic-regression/,content,True
+3458764691140220076,3458764691140220031,Логистическая Регрессия для Дата Саентиста,https://www.youtube.com/watch?v=49ck7kCyxr4&t=6347s&ab_channel=%D0%93%D0%BB%D0%B5%D0%B1%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2,content,True
+3458764691140220076,3458764691140220031,"Тренировки по ML. Лекция 3: Линейная классификация, метод максимального правдоподобия",https://www.youtube.com/watch?v=R1ccYYpEpiA&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=3&ab_channel=Young%26%26Yandex,content,True
+3458764691140220076,3458764691140220031,Курс «Машинное обучение 1». Лекция 6 (Евгений Соколов),https://youtu.be/sEqGtjnJE2o?list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS,content,True
+3458764691140220076,3458764691140220031,Курс «Машинное обучение 1». Дополнение к лекции 6 (Евгений Соколов),https://www.youtube.com/watch?v=lP1l8YPjSQY&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=8&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD,content,True
+3458764691140220076,3458764691140220031,ML Handbook 11.2. Логистическая регрессия,https://education.yandex.ru/handbook/data-analysis/article/logisticheskaya-regressiya,content,True
+3458764691140220076,3458764691140220031,Практика,https://drive.google.com/drive/folders/1PMfImDAXGxPIXNjyGRN0c7aNPeC-WsjS?usp=sharing,content,True
+3458764691140220077,3458764691140220031,"PRECISION, RECALL, CONFUSION MATRIX, ТОЧНОСТЬ, ПОЛНОТА, МАТРИЦА ОШИБОК | МЕТРИКИ КЛАССИФИКАЦИИ",https://www.youtube.com/watch?v=AfnBHL832Eg&ab_channel=machinelearrrning,content,True
+3458764691140220077,3458764691140220031,mlu-explain Precision & Recall,https://mlu-explain.github.io/precision-recall/,content,True
+3458764691140220077,3458764691140220031,Курс «Машинное обучение 1». Лекция 5 (Евгений Соколов),https://www.youtube.com/watch?v=Q824WEEnDVA&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=5&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD,content,True
+3458764691140220077,3458764691140220031,MLHandbook - 3.1. Метрики классификации и регрессии,https://education.yandex.ru/handbook/ml/article/metriki-klassifikacii-i-regressii,content,True
+3458764691140220077,3458764691140220031,конспект,https://publish.obsidian.md/mentoring/tochka/%D0%B3%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8+%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8,content,True
+3458764691140220077,3458764691140220031,Практика,https://drive.google.com/drive/folders/1AFV45OU0rwi-1UZpAyi7JxVftrFOn2V8?usp=sharing,content,True
+3458764691140220078,3458764691140220031,"ROC-AUC, ROC-CURVE, ROC-КРИВАЯ | МЕТРИКИ КЛАССИФИКАЦИИ",https://www.youtube.com/watch?v=v6PPG8J_Egs&ab_channel=machinelearrrning,content,True
+3458764691140220078,3458764691140220031,"PR-AUC, PR-CURVE, PR-КРИВАЯ, PRECISION RECALL КРИВАЯ | МЕТРИКИ КЛАССИФИКАЦИИ",https://www.youtube.com/watch?v=QW-09jHQH-w&ab_channel=machinelearrrning,content,True
+3458764691140220078,3458764691140220031,mlu-explain ROC & AUC,https://mlu-explain.github.io/roc-auc/,content,True
+3458764691140220078,3458764691140220031,ROC 🤘 для Дата Саентиста,https://www.youtube.com/watch?v=vtSgGDbkAq0&ab_channel=%D0%93%D0%BB%D0%B5%D0%B1%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2,content,True
+3458764691140220078,3458764691140220031,Курс «Машинное обучение 1». Дополнение к лекции 5 (Евгений Соколов),https://www.youtube.com/watch?v=HIHAPyuezkU&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=6,content,True
+3458764691140220078,3458764691140220031,Курс «Машинное обучение 1». Дополнение к лекции 5 (Евгений Соколов),https://www.youtube.com/watch?v=HIHAPyuezkU&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=7&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD,content,True
+3458764691140220078,3458764691140220031,MLHandbook - 3.1. Метрики классификации и регрессии,https://education.yandex.ru/handbook/ml/article/metriki-klassifikacii-i-regressii,content,True
+3458764691140220078,3458764691140220031,конспект,https://publish.obsidian.md/mentoring/tochka/%D0%B3%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8+%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8,content,True
+3458764691140220078,3458764691140220031,Практика,https://drive.google.com/drive/folders/1Pcvm4WlsoUb8xGpw317A_5NHPyMs5uQ7?usp=sharing,content,True
+3458764691140220079,3458764691140220031,Машина опорных векторов за 5 минут,https://www.youtube.com/watch?v=bzsad4UL8yc&ab_channel=MikhailBortnikov,content,True
+3458764691140220079,3458764691140220031,#19. Введение в метод опорных векторов (SVM) | Машинное обучение,https://www.youtube.com/watch?v=0g7d-TtPLDk&ab_channel=selfedu,content,True
+3458764691140220079,3458764691140220031,Курс «Машинное обучение 1». Лекция 7 (Евгений Соколов),https://www.youtube.com/watch?v=peW3bHDicj8&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD,content,True
+3458764691140220079,3458764691140220031,"MLHandbook - 2.1. Линейные модели (Hinge loss, SVM)",https://education.yandex.ru/handbook/ml/article/linear-models,content,True
+3458764691140220079,3458764691140220031,Практика,https://drive.google.com/drive/folders/1KFCUD2ukyhjIhaQ76Sy9HvJ552FkB1yq?usp=sharing,content,True
+3458764691140220080,3458764691140220031,#28. Многоклассовая классификация. Методы one-vs-all и all-vs-all | Машинное обучение,https://www.youtube.com/watch?v=_TxH-bodeKk&ab_channel=selfedu,content,True
+3458764691140220080,3458764691140220031,3.3.1 Multiclass Classification One vs all by Andrew Ng,https://www.youtube.com/watch?v=ZvaELFv5IpM&ab_channel=ComputerScienceEngineering,content,True
+3458764691140220080,3458764691140220031,Курс «Машинное обучение 1». Лекция 7 (Евгений Соколов),https://www.youtube.com/watch?v=peW3bHDicj8&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD,content,True
+3458764691140220080,3458764691140220031,MLHandbook - 3.1. Метрики классификации и регрессии,https://education.yandex.ru/handbook/ml/article/metriki-klassifikacii-i-regressii,content,True
+3458764691140220080,3458764691140220031,Практика,https://drive.google.com/drive/folders/1765rX7VOX_v5Rf4nJpGgKsoUvwewBD0j?usp=sharing,content,True
+3458764691140220081,3458764691140220031,#25. Метод главных компонент (Principal Component Analysis) | Машинное обучение,https://www.youtube.com/watch?v=AoBykkvOMDw&t=2s&ab_channel=selfedu,content,True
+3458764691140220081,3458764691140220031,StatQuest: PCA main ideas in only 5 minutes!!!,https://www.youtube.com/watch?v=HMOI_lkzW08&ab_channel=StatQuestwithJoshStarmer,content,True
+3458764691140220081,3458764691140220031,"StatQuest: Principal Component Analysis (PCA), Step-by-Step",https://www.youtube.com/watch?v=FgakZw6K1QQ&ab_channel=StatQuestwithJoshStarmer,content,True
+3458764691140220081,3458764691140220031,"StatQuest: t-SNE, ясное объяснение",https://www.youtube.com/watch?v=NEaUSP4YerM&ab_channel=StatQuestwithJoshStarmer,content,True
+3458764691140220081,3458764691140220031,Практика,https://drive.google.com/drive/folders/1rL1bI16eMBiGQ80q64a9kUlnZi-TgAVT?usp=sharing,content,True
+3458764691140220082,3458764691140220031,K Nearest Neighbors | Intuitive explained | Machine Learning Basics,https://www.youtube.com/watch?v=0p0o5cmgLdE&ab_channel=IntuitiveMachineLearning,content,True
+3458764691140220082,3458764691140220031,StatQuest: KNN,https://youtu.be/HVXime0nQeI,content,True
+3458764691140220082,3458764691140220031,ML Handbook 2.2. Метрические методы,https://education.yandex.ru/handbook/ml/article/metricheskiye-metody,content,True
+3458764691140220082,3458764691140220031,Практика,https://drive.google.com/drive/folders/1LO-K0-VSw6xJsMwg5CzDJ4eHZA_TcgAC?usp=sharing,content,True
+3458764691140220083,3458764691140220031,ДЕРЕВО РЕШЕНИЙ (DecisionTreeClassifier) | МАШИННОЕ ОБУЧЕНИЕ,https://www.youtube.com/watch?v=j8L07nuns2Y&ab_channel=machinelearrrning,content,True
+3458764691140220083,3458764691140220031,Как обучается дерево решений для регрессии. Decision Tree Regressor.,https://www.youtube.com/watch?v=0mMeaC3gjNI&t=676s&ab_channel=machinelearrrning,content,True
+3458764691140220083,3458764691140220031,"КАК НЕ ПЕРЕОБУЧИТЬ ДЕРЕВО РЕШЕНИЙ Decision Tree | MAX DEPTH, MIN SAMPLES LEAF, MAX LEAF NODES",https://www.youtube.com/watch?v=aWEdaXAZ01M&ab_channel=machinelearrrning,content,True
+3458764691140220083,3458764691140220031,mlu-explain,https://mlu-explain.github.io/decision-tree/,content,True
+3458764691140220083,3458764691140220031,Лекция. Решающие деревья,https://www.youtube.com/watch?v=MJwAoWFTMWw&t=789s&ab_channel=DeepLearningSchool,content,True
+3458764691140220083,3458764691140220031,"Тренировки по ML. Лекция 4: Решающие деревья, композиции деревьев, Random Forest",https://www.youtube.com/watch?v=rBIVch1h5qc&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=4&ab_channel=Young%26%26Yandex,content,True
+3458764691140220083,3458764691140220031,Курс «Машинное обучение 1». Лекция 8 (Евгений Соколов),https://youtu.be/ynG6snP_msM?list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS,content,True
+3458764691140220083,3458764691140220031,ML Handbook 2.3. Решающие деревья,https://education.yandex.ru/handbook/ml/article/reshayushchiye-derevya,content,True
+3458764691140220083,3458764691140220031,Практика 1,https://drive.google.com/drive/folders/14CfOML78M7sksfHdRnizjV8wqrDHibN_?usp=sharing,content,True
+3458764691140220083,3458764691140220031,Практика 2,https://drive.google.com/drive/folders/1k9Z1Iz23E317uuUsMncvBl592-V20Mys?usp=sharing,content,True
+3458764691140220084,3458764691140220031,"StatQuest: Случайные леса Часть 1 - Создание, использование и оценка",https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&ab_channel=StatQuestwithJoshStarmer,content,True
+3458764691140220084,3458764691140220031,"BAGGING, СЛУЧАЙНЫЙ ЛЕС, РАЗЛОЖЕНИЕ ОШИБКИ НА СМЕЩЕНИЕ (BIAS) И РАЗБРОС (VARIANCE). полная лекция",https://www.youtube.com/watch?v=rawnIo_XtYY&ab_channel=machinelearrrning,content,True
+3458764691140220084,3458764691140220031,mlu-explain,https://mlu-explain.github.io/random-forest/,content,True
+3458764691140220084,3458764691140220031,"Тренировки по ML. Лекция 4: Решающие деревья, композиции деревьев, Random Forest",https://www.youtube.com/watch?v=rBIVch1h5qc&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=4&ab_channel=Young%26%26Yandex,content,True
+3458764691140220084,3458764691140220031,Курс «Машинное обучение 1». Лекция 10 (Евгений Соколов),https://youtu.be/LU5FlFYLHo0?list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS,content,True
+3458764691140220084,3458764691140220031,ML Handbook 2.4. Ансамбли в машинном обучении,https://education.yandex.ru/handbook/ml/article/ansambli-v-mashinnom-obuchenii,content,True
+3458764691140220084,3458764691140220031,Практика,https://drive.google.com/drive/folders/1e4EEHT5dol3bB6hbn_9uBZfRNKJSpTan?usp=sharing,content,True
+3458764691140220085,3458764691140220031,Machine Learning Fundamentals: Bias and Variance,https://www.youtube.com/watch?v=EuBBz3bI-aA&ab_channel=StatQuestwithJoshStarmer,content,True
+3458764691140220085,3458764691140220031,07-08 Великая дилемма смещение против разброса,https://www.youtube.com/watch?v=oJ-reyHnWbU&ab_channel=%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0,content,True
+3458764691140220085,3458764691140220031,"Смещение, разброс и ошибка данных",https://www.youtube.com/watch?v=RNUCNtPZ7gM&ab_channel=%D0%A6%D0%B5%D0%BD%D1%82%D1%80digital%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B9ITtensive,content,True
+3458764691140220085,3458764691140220031,mlu-explain - bias-variance,https://mlu-explain.github.io/bias-variance/,content,True
+3458764691140220085,3458764691140220031,Курс «Машинное обучение 1». Лекция 9 (Евгений Соколов),https://www.youtube.com/watch?v=JkyTxNbiMn4&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=11&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD,content,True
+3458764691140220085,3458764691140220031,MLHandbook - 12.1. Bias-variance decomposition,https://education.yandex.ru/handbook/ml/article/bias-variance-decomposition,content,True
+3458764691140220086,3458764691140220031,Лекция. Градиентный бустинг,https://www.youtube.com/watch?v=JElfEE1OrSU&ab_channel=DeepLearningSchool,content,True
+3458764691140220086,3458764691140220031,Градиентный Бустинг: самый частый вопрос на собеседовании на дата саентиста,https://www.youtube.com/watch?v=ZNJ3lKyI-EY&t=1s&ab_channel=%D0%93%D0%BB%D0%B5%D0%B1%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2,content,True
+3458764691140220086,3458764691140220031,"Тренировки по ML. Лекция 5: Градиентный бустинг, тонкости обучения",https://www.youtube.com/watch?v=DqUtGa99_H8&ab_channel=Young%26%26Yandex,content,True
+3458764691140220086,3458764691140220031,ML Handbook 2.4. Ансамбли в машинном обучении,https://education.yandex.ru/handbook/ml/article/ansambli-v-mashinnom-obuchenii,content,True
+3458764691140220086,3458764691140220031,Практика,https://drive.google.com/drive/folders/1b5CvB1foeW1h5K8OtIZbmRxEOcjtqMsu?usp=sharing,content,True
+3458764691140220087,3458764691140220031,Модель кластеризации KMeans | К-средних | Метод локтя | KMeans часть 1 | МАШИННОЕ ОБУЧЕНИЕ,https://www.youtube.com/watch?v=EHZJMz6zyFE&t=1s&ab_channel=machinelearrrning,content,True
+3458764691140220087,3458764691140220031,Реализация модели KMeans с нуля | К-средних | KMeans часть 2 | МАШИННОЕ ОБУЧЕНИЕ,https://www.youtube.com/watch?v=nyeh7uJFyY4&ab_channel=machinelearrrning,content,True
+3458764691140220087,3458764691140220031,Реализация KMeans++ | Инициализация стартовых центроид | KMeans часть 3 | МАШИННОЕ ОБУЧЕНИЕ,https://www.youtube.com/watch?v=zMAS3Bbq1bk&ab_channel=machinelearrrning,content,True
+3458764691140220087,3458764691140220031,StatQuest: K-means clustering,https://www.youtube.com/watch?v=4b5d3muPQmA&ab_channel=StatQuestwithJoshStarmer,content,True
+3458764691140220087,3458764691140220031,#34. Алгоритм кластеризации DBSCAN | Машинное обучение,https://www.youtube.com/watch?v=svAtnZ5XjSI&ab_channel=selfedu,content,True
+3458764691140220087,3458764691140220031,"Clustering with DBSCAN, Clearly Explained!!!",https://www.youtube.com/watch?v=RDZUdRSDOok&ab_channel=StatQuestwithJoshStarmer,content,True
+3458764691140220087,3458764691140220031,MLHandbook - 10.1. Кластеризация,https://education.yandex.ru/handbook/ml/article/klasterizaciya,content,True
+3458764691140220087,3458764691140220031,Практика,https://drive.google.com/drive/folders/1eM6-Q6-ZRSSP5aV16092Tuo61RVjGF1N?usp=sharing,content,True
+3458764691140220091,3458764691140220031,Логистическая регрессия,https://stepik.org/lesson/329367/step/1?unit=312670,content,True
+3458764691140220094,3458764691140220031,KNN,https://stepik.org/lesson/329908/step/1?unit=313248,content,True
+3458764691140220094,3458764691140220031,KNN,https://stepik.org/lesson/917932/step/1?unit=923726,content,True
+3458764691140220097,3458764691140220031,Дерево решений,https://stepik.org/lesson/333977/step/1?unit=317388,content,True
+3458764691140220097,3458764691140220031,Дерево решений,https://stepik.org/lesson/333978/step/1?unit=317389,content,True
+3458764691140220100,3458764691140220031,Случайный лес,https://stepik.org/lesson/329906/step/1?unit=313246,content,True
+3458764691140220100,3458764691140220031,Случайный лес,https://stepik.org/lesson/869376/step/1?unit=873538,content,True
+3458764691140220100,3458764691140220031,Бэггинг,https://stepik.org/lesson/917945/step/1?unit=923739,content,True
+3458764691140220100,3458764691140220031,Бэггинг,https://stepik.org/lesson/329905/step/1?unit=313245,content,True
+3458764691140220103,3458764691140220031,Градиентный бустинг,https://stepik.org/lesson/329907/step/1?unit=313247,content,True
+3458764691140220103,3458764691140220031,Градиентный бустинг,https://stepik.org/lesson/869375/step/1?unit=873537,content,True
+3458764691140220106,3458764691140220031,KMeans,https://stepik.org/lesson/329904/step/1?unit=313244,content,True
+3458764691140220106,3458764691140220031,DBSCAN,https://stepik.org/lesson/1076196/step/1?unit=1086342,content,True
+3458764691140220116,3458764691140220031,"EDA, РАЗВЕДОЧНЫЙ И ПЕРВИЧНЫЙ АНАЛИЗ ДАННЫХ | MATPLOTLIB, SEABORN",https://www.youtube.com/watch?v=uJpDzHGUamg&ab_channel=machinelearrrning,content,True
+3458764691140220116,3458764691140220031,"КОД. EDA, РАЗВЕДОЧНЫЙ И ПЕРВИЧНЫЙ АНАЛИЗ ДАННЫХ | MATPLOTLIB, SEABORN",https://www.youtube.com/watch?v=28XZf0Fv9-0&t=1s&ab_channel=machinelearrrning,content,True
+3458764691140220119,3458764691140220031,mlu-explain,https://mlu-explain.github.io/,content,True
+3458764691140220119,3458764691140220031,ML Handbook,https://education.yandex.ru/handbook/ml/article/gradientnyj-busting,content,True
+3458764691140220121,3458764691140220031,"Логистическая регрессия, самое простое объяснение!",https://www.youtube.com/watch?v=8sp5aqyH6Oc&ab_channel=StartCareerinDS,content,True
+3458764691140220121,3458764691140220031,Логистическая Регрессия | Logistic Regression | Линейная модель для классификации |МАШИННОЕ ОБУЧЕНИЕ,https://www.youtube.com/watch?v=9BoVCdedvW8&ab_channel=machinelearrrning,content,True
+3458764691140220121,3458764691140220031,Реализация модели Логистическая Регрессия | Logistic Regression | Линейная модель для классификации,https://www.youtube.com/watch?v=ruVK07YF-RU&ab_channel=machinelearrrning,content,True
+3458764691140220121,3458764691140220031,mlu-explain,https://mlu-explain.github.io/logistic-regression/,content,True
+3458764691140220121,3458764691140220031,Логистическая Регрессия для Дата Саентиста,https://www.youtube.com/watch?v=49ck7kCyxr4&t=6347s&ab_channel=%D0%93%D0%BB%D0%B5%D0%B1%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2,content,True
+3458764691140220121,3458764691140220031,"Тренировки по ML. Лекция 3: Линейная классификация, метод максимального правдоподобия",https://www.youtube.com/watch?v=R1ccYYpEpiA&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC&index=3&ab_channel=Young%26%26Yandex,content,True
+3458764691140220121,3458764691140220031,Курс «Машинное обучение 1». Лекция 6 (Евгений Соколов),https://youtu.be/sEqGtjnJE2o?list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS,content,True
+3458764691140220121,3458764691140220031,Курс «Машинное обучение 1». Дополнение к лекции 6 (Евгений Соколов),https://www.youtube.com/watch?v=lP1l8YPjSQY&list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS&index=8&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD,content,True
+3458764691140220121,3458764691140220031,ML Handbook 11.2. Логистическая регрессия,https://education.yandex.ru/handbook/data-analysis/article/logisticheskaya-regressiya,content,True
+3458764691140220121,3458764691140220031,Практика,https://drive.google.com/drive/folders/1PMfImDAXGxPIXNjyGRN0c7aNPeC-WsjS?usp=sharing,content,True
+3458764691140220125,3458764691140220031,Start ML Karpov/Courses,https://karpov.courses/ml-start,content,True
+3458764691140220133,3458764691140220031,ML Cheatsheet Documentation,https://readthedocs.org/projects/ml-cheatsheet/downloads/pdf/latest/#page=7.18,content,True
+3458764691140220133,3458764691140220031,этим конспектом по ML,https://t.me/data_secrets/4412,content,True
+3458764691140220134,3458764691140220031,StatQuest,https://www.youtube.com/@statquest/playlists,content,True
+3458764691140220135,3458764691140220031,mlcourse,https://mlcourse.ai/book/index.html,content,True
+3458764691140220137,3458764691140220031,"Добрый, добрый ИИ. Часть 1. Машинное обучение.",https://stepik.org/course/209247/syllabus,content,True
+3458764691140220139,3458764691140220031,линейная регрессию,https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.qqn5lkf9qa3a,content,True
+3458764691140220139,3458764691140220031,градиентный спуск,https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.t8qmyugrx9ky,content,True
+3458764691140220139,3458764691140220031,работу с данными,https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.yr6diym0hscf,content,True
+3458764691140220139,3458764691140220031,регуляризацию,https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.56m0o7s1qglk,content,True
+3458764691140220139,3458764691140220031,метрики регрессии,https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.mscv2pfe6sk3,content,True
+3458764691140220141,3458764691140220031,логистическую регрессию,https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.xvq4ipii7118,content,True
+3458764691140220141,3458764691140220031,метрики классификации,https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.qw34w2xeh98l,content,True
+3458764691140220143,3458764691140220031,работу с данными,https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.yr6diym0hscf,content,True
+3458764691140220145,3458764691140220031,деревья,https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.hiyar5tdn510,content,True
+3458764691140220145,3458764691140220031,ансамбли,https://docs.google.com/document/d/1QoCSThAzu4NjG1AaPMjDWxhEzGttYzUTr5JuZYxTNvw/edit?tab=t.0#heading=h.xbsa89kk6ufn,content,True
+3458764691140220148,3458764691140220522,курс со степика,https://stepik.org/course/123300/syllabus,content,True
+3458764691140220151,3458764691140220522,Курс со степика,https://stepik.org/course/179694/syllabus,content,True
+3458764691140220154,3458764691140220522,Видео,https://www.youtube.com/watch?v=cVDIbEsCTow&t=2358s,content,True
+3458764691140220157,3458764691140220522,плейлист,https://www.youtube.com/playlist?list=PL_CgZ0Ik6XuVkCvwVLBYL2S-KNRlg6u-e,content,True
+3458764691140220159,3458764691140220522,видео,https://www.youtube.com/watch?v=dpIz4qj_MMY,content,True
+3458764691140220162,3458764691140220522,9 главу,https://education.yandex.ru/handbook/ml#:~:text=9.%20%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B,content,True
+3458764691140220165,3458764691140220522,главу 10.1,https://education.yandex.ru/handbook/ml/article/klasterizaciya,content,True
+3458764691140220167,3458764691140220522,10.2-10.4,"https://education.yandex.ru/handbook/ml#:~:text=10.2.,%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B8%D0%B4%D0%B0%20ARIMA",content,True
+3458764691140220170,3458764691140220522,главу 10.5,https://education.yandex.ru/handbook/ml/article/zadacha-ranzhirovaniya,content,True
+3458764691140220171,3458764691140220522,Цикл лекций,https://www.youtube.com/playlist?list=PLk4h7dmY2eYExAy8xWyuVqY5BplX65Wtr,content,True
+3458764691140220174,3458764691140220522,Курс,https://stepik.org/course/181476/,content,True
+3458764691140220178,3458764691140220522,https://xn--%20-5cddbedrjadrwf6dllej8bddn/,https://xn--%20-5cddbedrjadrwf6dllej8bddn/,content,True
+3458764691140220178,3458764691140220522,Собес Павла Филонов у OTUS,https://www.youtube.com/watch?v=JvrlZIc0ObE&t=3290s,content,True
+3458764691140220178,3458764691140220522,Собес Павла Филонова у ODS,https://www.youtube.com/watch?v=sK_7v3mEQJU,content,True
+3458764691140220178,3458764691140220522,ML System Design от Бабушкина Выпуск 1,https://www.youtube.com/watch?v=VPg2Uu1MYgI&list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni&index=19&ab_channel=karpov.courses,content,True
+3458764691140220178,3458764691140220522,ML System Design от Бабушкина Выпуск 2,https://www.youtube.com/watch?v=WKYPQtqE-m0&list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni&index=16&ab_channel=karpov.courses,content,True
+3458764691140220178,3458764691140220522,ML System Design от Бабушкина Выпуск 3,https://www.youtube.com/watch?v=WKYPQtqE-m0&list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni&index=16&ab_channel=karpov.courses,content,True
+3458764691140220180,3458764691140220522,Курс по MLSD от ODS,https://ods.ai/tracks/ml-system-design-23,content,True
+3458764691140220181,3458764691140220522,alirezadir,https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLSD/ml-system-design.md,content,True
+3458764691140220181,3458764691140220522,EvidentlyAI,https://www.evidentlyai.com/ml-system-design,content,True
+3458764691140220188,3458764691140220032,наиболее часто встречаемые вопросы с Яндекса,https://disk.yandex.ru/i/J4p8RRNRQh9mKQ,content,True
+3458764691140220188,3458764691140220032,классными шаблонами,https://www.notion.so/1daf48226be780a4962fd5d25f575f4f,content,True
+3458764691140220190,3458764691140220522,Ультимативный курс по временным рядам,https://stepik.org/course/177216/,content,True
+3458764691140220194,3458764691140220192,видео,https://www.youtube.com/watch?v=GB9ByFAIAH4&t=2759s,content,True
+3458764691140220195,3458764691140220192,видео,https://www.youtube.com/watch?v=2uvysYbKdjM&list=WL&index=9,content,True
+3458764691140220251,3458764691140220250,Введение в нейронные сети,https://stepik.org/lesson/1420705/step/1?unit=1633791,content,True
+3458764691140220251,3458764691140220250,Продвинутое обучение нейросетей,https://stepik.org/lesson/1420711/step/1?unit=1633794,content,True
+3458764691140220252,3458764691140220250,лекцию Котнекова,https://www.youtube.com/watch?v=iOrNbK2T92M,content,True
+3458764691140220254,3458764691140220250,статьи,https://www.promptingguide.ai/ru,content,True
+3458764691140220257,3458764691140220250,Классические метрики,https://habr.com/ru/articles/1002218/,content,True
+3458764691140220257,3458764691140220250,LLM as Judge,https://habr.com/ru/articles/905728/,content,True
+3458764691140220257,3458764691140220250,G-Eval,https://arxiv.org/pdf/2303.16634,content,True
+3458764691140220261,3458764691140220259,https://t.me/tatiwonderland/61,https://t.me/tatiwonderland/61,content,True
+3458764691140220261,3458764691140220259,Второй пост про MLSD,https://t.me/tatiwonderland/62,content,True
+3458764691140220262,3458764691140220259,System Design. Машинное обучение. Подготовка к сложному интервью,https://drive.google.com/file/d/1maKyHc-axXFK3A6Hgg4EDK5SPPq3qcTF/view?usp=sharing,content,True
+3458764691140220265,3458764691140220259,как происходят процессы в любой компании,https://docs.google.com/document/d/1O-QO5iY5S_zU7tzv2blglfxOZZq4CzdBLpBB6W3qio4/edit?tab=t.0#heading=h.rtx5i12nmqpp,content,True
+3458764691140220273,3458764691140220522,Лекции ИТМО,https://disk.yandex.ru/d/UJdmF8ZynegF1w,content,True
+3458764691140220275,3458764691140220522,Статья по async 1,https://habr.com/ru/articles/667630/,content,True
+3458764691140220275,3458764691140220522,Статья по async 2,https://habr.com/ru/articles/671798/,content,True
+3458764691140220275,3458764691140220522,Статья по async 3,https://habr.com/ru/articles/774582/,content,True
+3458764691140220277,3458764691140220522,статья с хабра,https://habr.com/ru/articles/240405/,content,True
+3458764691140220279,3458764691140220522,статью с хабра,https://habr.com/ru/articles/828984/,content,True
+3458764691140220282,3458764691140220522,этой страницы,https://www.sparkplayground.com/tutorials,content,True
+3458764691140220284,3458764691140220522,эти задачки,https://www.sparkplayground.com/pyspark-coding-interview-questions,content,True
+3458764691140220294,3458764691140220291,видео,https://www.youtube.com/watch?v=Nrq74MRHHJs,content,True
+3458764691140220295,3458764691140220291,видео,https://www.youtube.com/watch?v=Nrq74MRHHJs,content,True
+3458764691140220295,3458764691140220291,этого плейлиста,https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab,content,True
+3458764691140220295,3458764691140220291,этого плейлиста,https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr,content,True
+3458764691140220299,3458764691140220298,курс со степика,https://stepik.org/course/100707/promo,content,True
+3458764691140220303,3458764691140220298,продолжение базового курса,https://stepik.org/course/116336/promo?referral=WzExNjMzNiw0OTEzNTQwMTUsMTc0MjQ3Nzk4Mi44MDQ5OTQ4XQ%3A1tvG7a%3AK3rMecG2wXD7AncXYbF_lBMGcbg,content,True
+3458764691140220303,3458764691140220298,этот плейлист,https://www.youtube.com/playlist?list=PLA0M1Bcd0w8zPwP7t-FgwONhZOHt9rz9E,content,True
+3458764691140220306,3458764691140220290,Статья про git,https://habr.com/ru/articles/588801/,content,True
+3458764691140220306,3458764691140220290,Полезные материалы по работе с ним,https://drive.google.com/file/d/1FCLBMVea5Kf2BclV4GDQ2BHP5PpncGhC/view?usp=sharing,content,True
+3458764691140220306,3458764691140220290,Игра с практикой 1,https://learngitbranching.js.org/,content,True
+3458764691140220306,3458764691140220290,Игра с практикой 2,https://ohmygit.org/,content,True
+3458764691140220307,3458764691140220290,Док с основными командами,https://docs.google.com/document/d/1nj3aLp-AmdfJgqb09wrRu24qKDTaTJ6EPkUWnXdvlXg/edit?tab=t.0#heading=h.jgxs2s7g8e6i,content,True
+3458764691140220331,3458764691140220522,алгоритму хождения на собеседования,https://docs.google.com/document/d/13w5BOcmQ0JhM7xFhVFWLKH3DBNoEgwKzFscgzalFVww/edit?tab=t.0#heading=h.cf64dds9cql,content,True
+3458764691140220339,3458764691140220338,Гайд по оптимизации резюме...,https://docs.google.com/document/d/1qcU66XOq7hGPUFfedSIpmls__f55owROX9NlbhWnpbQ/edit?tab=t.0,content,True
+3458764691140220339,3458764691140220338,Гайд по созданию легенды,https://docs.google.com/document/d/1ZcbmPRW7H7QxTxoIrDMqzWjGzRqIsYB4rhkxP4hQ2h4/edit?tab=t.0,content,True
+3458764691140220341,3458764691140220338,Самопрезентация…,https://docs.google.com/document/d/1aazxkBAbK1JLBERZnkIv78gSTk_lXWZDLe5Fp8lt1Ek/edit?usp=sharing,content,True
+3458764691140220344,3458764691140220338,Гайд по составлению и оформлению резюме…,https://docs.google.com/document/d/1qZwRtmXFP51EaFkhOCE4U7J_XTwoDp6AadtpqriqNw8/edit?tab=t.0,content,True
+3458764691140220347,3458764691140220338,Карта менторства...,https://docs.google.com/document/d/1XLR0lzrDR9TIIEn459UT4JOR-XUHg6xSrhbAFeCQM-I/edit?tab=t.0#heading=h.w2g6ytklwtv4,content,True
+3458764691140220349,3458764691140220259,@olga_karau1ova,https://olga_karau1ova/,content,True
+3458764691140220352,3458764691140220522,@olga_karau1ova,https://olga_karau1ova/,content,True
+3458764691140220354,3458764691140220353,Статья про mlflow,https://habr.com/ru/companies/X5Tech/articles/593263/,content,True
+3458764691140220355,3458764691140220353,Статья про prometheus + grafana,https://habr.com/ru/companies/doubletapp/articles/736602/,content,True
+3458764691140220360,3458764691140220353,Небольшое практическое задание по Docker,https://drive.google.com/drive/folders/1lu8-f9gGcHiP8MMou1_3C-_8_LQ2YXB6?usp=sharing,content,True
+3458764691140220362,3458764691140220353,Наша лекция про весь Deploy от и до,https://t.me/c/2482111540/10525/11206,content,True
+3458764691140220364,3458764691140220353,Небольшое практическое задание по Docker,https://drive.google.com/drive/folders/1lu8-f9gGcHiP8MMou1_3C-_8_LQ2YXB6?usp=sharing,content,True
