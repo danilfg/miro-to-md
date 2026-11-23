@@ -298,6 +298,7 @@ def build():
         days[minutes]=result
     readme=make_readme(course,manifest,report,issue_links,source_links,days,blocks).replace("\\`", "`")
     (PKG/"README.md").write_text(readme,encoding="utf-8")
+    (OUT/"course.md").write_text(render_course_markdown(course),encoding="utf-8")
     dump(OUT/"audit.json",{
         "schemaVersion":course["schemaVersion"],
         "packageType":"course",
@@ -400,6 +401,41 @@ def validate(envelope,manifest,pkg_dir):
         assert aid in ids
     assert len(text.encode("utf-8"))<=32*1024*1024
     assert len(json.dumps(manifest).encode("utf-8"))<=8*1024*1024
+
+def render_course_markdown(envelope):
+    """Human-readable editor preview; the import source of truth remains course.json."""
+    course=envelope["course"]
+    lines=[
+        "# "+course["title"], "",
+        "**Авторский предпросмотр, версия v3 (draft).** Материалы курса структурированы в package/course.json.",
+        "Инструкции и тесты предназначены для преподавателя; правильные ответы не следует публиковать в студенческом интерфейсе.",""
+    ]
+    for si,stage in enumerate(course["stages"],1):
+        lines.extend([f"## Модуль {si}: {stage['title']}",""])
+        for li,lesson in enumerate(stage["lessons"],1):
+            lines.extend([f"### {si}.{li}. {lesson['title']}","",lesson["summary"],""])
+            for step in lesson["steps"]:
+                if step["kind"]=="article":
+                    lines.extend([f"#### {step['title']} ({step['effort']['planningMinutes']} минут)","",
+                                  step["bodyMarkdown"],""])
+                    if "parts" in step:
+                        lines.extend(["**Контрольные точки:**",""])
+                        for part in step["parts"]:
+                            lines.append(f"- {part['title']} ({part['planningMinutes']} мин): {part['instructions']} "
+                                         f"**Результат:** {part['checkpoint']}")
+                        lines.append("")
+            q=lesson["quiz"]["questions"][0]
+            lines.extend(["**Итоговый тест:** "+q["prompt"],""])
+            for option in q["options"]:
+                lines.append("- "+option["text"]+(" **[верно, ключ преподавателя]**" if option["isCorrect"] else ""))
+            lines.extend(["","Пояснение: "+q["explanation"],""])
+            if lesson["resources"]:
+                lines.extend(["**Источники и дополнительные материалы из Miro:**",""])
+                for resource in lesson["resources"]:
+                    lines.append("- ["+resource["title"].replace("]","")+"]("+resource["url"]+")")
+                lines.append("")
+    return "\n".join(lines)+"\n"
+
 
 def make_readme(envelope,manifest,report,invalid_links,source_links,days,blocks):
     stages=envelope["course"]["stages"]
