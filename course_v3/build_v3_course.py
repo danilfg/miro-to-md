@@ -80,9 +80,9 @@ def step(sid,kind,title,order,plan,typical,**kwargs):
             "isRequired":True,"effort":effort(typical,plan),**kwargs}
 
 def mk_lesson(stage_id,entry,index):
-    if len(entry)!=10:
-        raise ValueError(f"Topic {stage_id}, #{index} should have 10 tuple fields; got {len(entry)}")
-    key,title,concept,worked,exercise,solution,question,correct,wrong1,wrong2=entry
+    if len(entry)!=11:
+        raise ValueError(f"Topic {stage_id}, #{index} should have 11 tuple fields; got {len(entry)}")
+    key,title,concept,worked,exercise,solution,question,correct,wrong1,wrong2,quiz_explanation=entry
     lid="agr-"+stage_id+"-"+key
     qid="q-"+key
     if len(qid)>80:
@@ -134,7 +134,7 @@ def mk_lesson(stage_id,entry,index):
                 {"id":"correct","text":correct,"isCorrect":True},
                 {"id":"distractor-1","text":wrong1,"isCorrect":False},
                 {"id":"distractor-2","text":wrong2,"isCorrect":False}],
-            "explanation":solution+" "+correct
+            "explanation":quiz_explanation
         }]
     }
     lesson={
