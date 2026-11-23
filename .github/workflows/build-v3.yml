@@ -1,0 +1,65 @@
+name: Build curated Agents RAG v3 course
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'course_v3/**'
+      - '.github/workflows/build-v3.yml'
+      - 'out/agents-rag/package/course.json'
+      - 'out/agents-rag/links.csv'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  package-v3:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Build v3 package and run internal checks
+        run: python course_v3/build_v3_course.py
+      - name: Confirm generated ZIP and assets
+        run: |
+          python - <<'PY'
+          import json,zipfile
+          from pathlib import Path
+          base=Path("out/agents-rag-v3")
+          c=json.loads((base/"package/course.json").read_text())
+          a=json.loads((base/"audit.json").read_text())
+          z=base/"agents-rag-v3.zip"
+          with zipfile.ZipFile(z) as f:
+              assert f.testzip() is None
+              assert f.namelist().count("package/course.json")==1
+          assert c["schemaVersion"]=="itroadmaps.course.v3"
+          assert a["lessons"]>30
+          assert a["quizQuestions"]==a["lessons"]
+          print(json.dumps(a,ensure_ascii=False,indent=2))
+          PY
+      - name: Upload ZIP and QA report
+        uses: actions/upload-artifact@v4
+        with:
+          name: agents-rag-v3-course
+          path: |
+            out/agents-rag-v3/agents-rag-v3.zip
+            out/agents-rag-v3/audit.json
+            out/agents-rag-v3/source_trace.json
+          if-no-files-found: error
+      - name: Commit generated course to repository
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f out/agents-rag-v3/agents-rag-v3.zip out/agents-rag-v3/package/course.json out/agents-rag-v3/package/manifest.json out/agents-rag-v3/package/README.md out/agents-rag-v3/audit.json out/agents-rag-v3/source_trace.json out/agents-rag-v3/package/assets/images/*
+          if ! git diff --cached --quiet; then
+            git commit -m "build: publish draft v3 course package from source Miro export"
+            git push
+          else
+            echo "No changes to commit"
+          fi
