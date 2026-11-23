@@ -296,7 +296,7 @@ def build():
             result[day_index].append((title,block_minutes))
             capacity-=block_minutes
         days[minutes]=result
-    readme=make_readme(course,manifest,report,issue_links,source_links,days,blocks)
+    readme=make_readme(course,manifest,report,issue_links,source_links,days,blocks).replace("\\`", "`")
     (PKG/"README.md").write_text(readme,encoding="utf-8")
     dump(OUT/"audit.json",{
         "schemaVersion":course["schemaVersion"],
