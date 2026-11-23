@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "itroadmaps.course.v3",
+  "assets": [
+    {
+      "assetId": "agr-miro-image-3458764691140183090",
+      "path": "assets/images/3458764691140183090.jpg",
+      "mime": "image/jpeg",
+      "bytes": 7059,
+      "sha256": "e4c4f160924602e02daa38c1933af97fb24e7d39e6ca7674d6ba5d71f405fe6f"
+    },
+    {
+      "assetId": "agr-miro-image-3458764691140183096",
+      "path": "assets/images/3458764691140183096.jpg",
+      "mime": "image/jpeg",
+      "bytes": 3480,
+      "sha256": "f7157cf61b7907caea059d2ce88e9f1992f8ccbf7443e5fe8d30453b19eb38c5"
+    }
+  ]
+}

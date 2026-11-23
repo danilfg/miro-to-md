@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "itroadmaps.course.v3",
+  "packageType": "course",
+  "sourceItems": 184,
+  "sourceLinks": 199,
+  "sourceLinksCsvRows": 199,
+  "sourceV2Resources": 194,
+  "stages": 13,
+  "lessons": 71,
+  "steps": 213,
+  "quizQuestions": 71,
+  "resourceURLs": 175,
+  "invalidOrUnsafeURLs": 6,
+  "assets": 2,
+  "mandatoryPlanningMinutes": 4655,
+  "limitations": [
+    "No v3 JSON Schema or LMS v3 importer found on repository main at build time; manual contract checks only.",
+    "Original large external courses/videos are supplementary URLs; their full duration is not invented or counted in effort.",
+    "No code runners or task definitions provided, hence manual practice in article steps and genuine quizzes.",
+    "No fresh internet URL verification; source snapshot may contain older HTTP checks.",
+    "New pedagogical lessons synthesize and reorganize Miro material; not a verbatim representation of all individual boards items."
+  ]
+}
