@@ -48,6 +48,7 @@ jobs:
           path: |
             out/agents-rag-v3/agents-rag-v3.zip
             out/agents-rag-v3/audit.json
+            out/agents-rag-v3/course.md
             out/agents-rag-v3/source_trace.json
           if-no-files-found: error
       - name: Commit generated course to repository
@@ -56,7 +57,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f out/agents-rag-v3/agents-rag-v3.zip out/agents-rag-v3/package/course.json out/agents-rag-v3/package/manifest.json out/agents-rag-v3/package/README.md out/agents-rag-v3/audit.json out/agents-rag-v3/source_trace.json out/agents-rag-v3/package/assets/images/*
+          git add -f out/agents-rag-v3/course.md out/agents-rag-v3/agents-rag-v3.zip out/agents-rag-v3/package/course.json out/agents-rag-v3/package/manifest.json out/agents-rag-v3/package/README.md out/agents-rag-v3/audit.json out/agents-rag-v3/source_trace.json out/agents-rag-v3/package/assets/images/*
           if ! git diff --cached --quiet; then
             git commit -m "build: publish draft v3 course package from source Miro export"
             git push
