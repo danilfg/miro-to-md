@@ -22,19 +22,19 @@
 
 | № | Stage.sourceId | Модуль | Уроков |
 |---:|---|---|---:|
-| 1 | \`agr-stage-math\` | Математика | 4 |
-| 2 | \`agr-stage-python\` | Python | 5 |
-| 3 | \`agr-stage-algorithms\` | Алгосекции | 6 |
-| 4 | \`agr-stage-git\` | Git + Terminal | 2 |
-| 5 | \`agr-stage-async-fastapi\` | Асинхронность + FastAPI | 3 |
-| 6 | \`agr-stage-classic-ml\` | Classic ML | 15 |
-| 7 | \`agr-stage-dl-transformers\` | Основы Deep Learning и трансформеров | 7 |
-| 8 | \`agr-stage-databases\` | Базы данных | 3 |
-| 9 | \`agr-stage-rag-agents\` | RAG + Agents | 11 |
-| 10 | \`agr-stage-deploy\` | Deploy | 5 |
-| 11 | \`agr-stage-mlsd\` | ML System Design | 4 |
-| 12 | \`agr-stage-career\` | Создание легенды, резюме и самопрезентации | 3 |
-| 13 | \`agr-stage-resources\` | Материалы вне нумерованных модулей | 3 |
+| 1 | `agr-stage-math` | Математика | 4 |
+| 2 | `agr-stage-python` | Python | 5 |
+| 3 | `agr-stage-algorithms` | Алгосекции | 6 |
+| 4 | `agr-stage-git` | Git + Terminal | 2 |
+| 5 | `agr-stage-async-fastapi` | Асинхронность + FastAPI | 3 |
+| 6 | `agr-stage-classic-ml` | Classic ML | 15 |
+| 7 | `agr-stage-dl-transformers` | Основы Deep Learning и трансформеров | 7 |
+| 8 | `agr-stage-databases` | Базы данных | 3 |
+| 9 | `agr-stage-rag-agents` | RAG + Agents | 11 |
+| 10 | `agr-stage-deploy` | Deploy | 5 |
+| 11 | `agr-stage-mlsd` | ML System Design | 4 |
+| 12 | `agr-stage-career` | Создание легенды, резюме и самопрезентации | 3 |
+| 13 | `agr-stage-resources` | Материалы вне нумерованных модулей | 3 |
 
 Каждый урок имеет стабильные ASCII ID для lesson, theory/work/quiz, parts и quiz/options. Обновление обязано сохранять эти ID.
 Исходные Miro IDs и их заголовки сохранены в source_trace.json рядом с ZIP. Названия из доски сгруппированы в новые учебные уроки; переноса один-к-одному нет.
@@ -123,7 +123,7 @@ Stepik, курсы Deep Learning, HuggingFace Agents и другие внешн�
 
 ## Состав архива
 
-\`\`\`text
+```text
 package/
   course.json
   manifest.json
@@ -131,9 +131,9 @@ package/
   assets/
     images/
       [файлы из выгрузки Miro]
-\`\`\`
+```
 
-Текстовый v3 reference на реальное изображение: \`![описание](asset:asset-id)\`. Реестр manifest хранит assetId, относительный path, MIME, bytes и SHA-256.
+Текстовый v3 reference на реальное изображение: `![описание](asset:asset-id)`. Реестр manifest хранит assetId, относительный path, MIME, bytes и SHA-256.
 
 ## Следующие действия
 
